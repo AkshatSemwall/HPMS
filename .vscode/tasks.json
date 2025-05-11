@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build HPMS",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-I",
+        "../include",
+        "-o",
+        "../bin/HPMS.exe",
+        "*.cpp"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}/src"
+      },
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Run HPMS",
+      "type": "shell",
+      "command": "../bin/HPMS.exe",
+      "options": {
+        "cwd": "${workspaceFolder}/src"
+      },
+      "dependsOn": "Build HPMS",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
