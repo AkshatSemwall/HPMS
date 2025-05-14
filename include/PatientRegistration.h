@@ -1,7 +1,9 @@
-#ifndef PATIENTREGISTRATION_H
-#define PATIENTREGISTRATION_H
+#ifndef PATIENT_REGISTRATION_H
+#define PATIENT_REGISTRATION_H
 
-// Function declaration to register a new patient
-void registerPatient();
+class PatientRegistration {
+public:
+    static void registerPatient();
+};
 
-#endif // PATIENTREGISTRATION_H
+#endif

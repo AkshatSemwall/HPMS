@@ -1,0 +1,999 @@
+PatientID,Name,Age,Gender,ConditionSeverity,AdmissionDate,DischargeDate,MedicalHistory,BillAmount,PriorityLevel,Locality,InsuranceCoverage,AmountPaid,OutstandingAmount,PaymentStatus
+P999,Aks,12,F,High,11/2/2025,-,Heart Attack,8000,5,New York,yes,5000,3000,Unpaid
+P0009,Charles Dunn,54,F,Low,4/8/2025,5/2/2025,,4594,3,Port Jacquelineside,No,3312,1282,Partial
+P0027,Margaret Harrington MD,23,M,Low,3/14/2025,4/2/2025,Asthma,8355,3,Crystalborough,Yes,3297,5058,Partial
+P0029,Ellen Jackson,52,F,Low,3/15/2025,4/4/2025,Cancer,1636,3,Mullentown,Yes,114,1522,Partial
+P0031,James Rice,58,F,Low,2/28/2025,4/26/2025,Cancer,8381,3,Craigtown,No,2761,5620,Partial
+P0032,Christopher Rojas,50,M,Low,3/2/2025,4/26/2025,,12336,3,Smithfurt,No,7893,4443,Partial
+P0036,Robert Martinez,84,M,Low,5/7/2025,5/10/2025,,5249,3,South Deborahville,Yes,993,4256,Partial
+P0049,Michael Ross,86,F,Low,3/20/2025,5/6/2025,Cancer,3105,3,Ericton,Yes,1812,1293,Partial
+P0060,John Flores,31,M,Low,2/23/2025,4/6/2025,"Fracture, Heart Disease, Heart Disease",29731,3,New Rachel,No,3387,26344,Partial
+P0061,Adam Stark Jr.,79,M,Low,2/27/2025,3/13/2025,,1094,3,North Ryanhaven,Yes,778,316,Partial
+P0066,Cristian Sloan,52,M,Low,3/7/2025,4/4/2025,Hypertension,8877,3,Teresaville,Yes,1366,7511,Partial
+P0076,Jonathon Price,74,M,Low,5/12/2025,5/13/2025,"Asthma, Cancer",25615,3,Danielport,Yes,18090,7525,Partial
+P0077,Russell White Jr.,13,M,Low,2/15/2025,3/27/2025,Fracture,1606,3,Kyleville,Yes,838,768,Partial
+P0078,Keith Baldwin,4,M,Low,3/17/2025,4/28/2025,"Hypertension, Fracture, Fracture",18939,3,North Robert,No,17198,1741,Partial
+P0085,Erica Stewart,63,M,Low,3/5/2025,5/7/2025,,626,3,Hartmouth,No,138,488,Partial
+P0095,Debra Campbell,25,M,Low,5/8/2025,5/11/2025,"Hypertension, Cancer, Cancer",5167,3,Port Donaldfort,Yes,3957,1210,Partial
+P0098,Jacob Torres,17,F,Low,5/10/2025,5/13/2025,"Fracture, Heart Disease, Diabetes",7092,3,Walshhaven,No,4132,2960,Partial
+P0099,Catherine Ward,23,F,Low,2/18/2025,4/25/2025,"Hypertension, Asthma",11348,3,Port Daniellefurt,Yes,2000,9348,Partial
+P0104,Eric Payne,65,F,Low,3/6/2025,3/10/2025,Cancer,2250,3,West Rachel,Yes,185,2065,Partial
+P0107,Leslie Bennett,9,M,Low,3/23/2025,3/29/2025,"Fracture, Heart Disease",22879,3,Hubbardport,Yes,15028,7851,Partial
+P0121,Daniel Curry,27,F,Low,5/3/2025,5/9/2025,"Cancer, Cancer, Diabetes",2424,3,Hernandezstad,Yes,1262,1162,Partial
+P0123,Jessica Rodriguez,7,F,Low,4/2/2025,4/22/2025,,20870,3,East Maria,No,12494,8376,Partial
+P0126,Yvonne Raymond,84,M,Low,4/20/2025,5/4/2025,"Hypertension, Fracture",25864,3,Millerfurt,No,10834,15030,Partial
+P0140,Kylie Miller,39,M,Low,4/18/2025,5/4/2025,,29336,3,Maryland,Yes,1379,27957,Partial
+P0141,Mary Riley,29,M,Low,4/3/2025,4/4/2025,Hypertension,29325,3,Lake Danielport,Yes,647,28678,Partial
+P0147,Timothy Taylor,85,F,Low,4/29/2025,5/11/2025,,3282,3,East Michelle,No,642,2640,Partial
+P0149,Vanessa Lopez,14,F,Low,3/12/2025,5/1/2025,"Heart Disease, Asthma",19840,3,Port Julia,Yes,18690,1150,Partial
+P0152,Thomas Grant,46,F,Low,2/21/2025,4/12/2025,"Cancer, Diabetes, Asthma",2338,3,West Williamtown,No,1661,677,Partial
+P0161,Kyle Preston,22,M,Low,3/27/2025,4/7/2025,,17998,3,Nealport,Yes,16524,1474,Partial
+P0170,Danielle Coleman,37,M,Low,3/19/2025,4/1/2025,"Asthma, Asthma, Fracture",25329,3,Vincentland,No,10676,14653,Partial
+P0179,Marcus Brown,83,F,Low,3/17/2025,4/4/2025,Cancer,19635,3,North Michaelbury,No,2451,17184,Partial
+P0190,Edward Garcia,24,F,Low,5/7/2025,5/13/2025,,5603,3,Reynoldsport,No,1294,4309,Partial
+P0193,Richard Harris,78,M,Low,4/19/2025,5/10/2025,Asthma,17655,3,Walshton,No,14749,2906,Partial
+P0202,Catherine Robbins,8,M,Low,2/14/2025,2/17/2025,"Fracture, Fracture, Hypertension",15663,3,Hernandezburgh,Yes,14513,1150,Partial
+P0217,Diane Thomas,61,M,Low,3/19/2025,3/24/2025,Asthma,13362,3,Jeffreystad,Yes,10639,2723,Partial
+P0221,Dustin Li,30,F,Low,4/18/2025,4/19/2025,Heart Disease,13107,3,Charlesland,No,8594,4513,Partial
+P0225,Dawn Pugh,63,F,Low,3/27/2025,4/6/2025,,26809,3,New Kimberlyview,No,9680,17129,Partial
+P0234,Joseph Smith,79,M,Low,3/15/2025,3/17/2025,"Asthma, Diabetes",3596,3,Johnnybury,Yes,246,3350,Partial
+P0236,Kimberly Ashley,12,M,Low,2/15/2025,3/19/2025,"Hypertension, Asthma",13722,3,New Michelle,Yes,12824,898,Partial
+P0238,Kristina Weber,77,M,Low,5/9/2025,5/13/2025,"Hypertension, Heart Disease",13471,3,Martinezbury,No,12607,864,Partial
+P0243,William Simmons,11,M,Low,4/1/2025,4/2/2025,"Hypertension, Cancer",13343,3,West Jennifer,Yes,7832,5511,Partial
+P0246,Diane Bradley,31,F,Low,4/6/2025,5/12/2025,Hypertension,15340,3,East Holly,No,4675,10665,Partial
+P0248,Elizabeth Butler,78,F,Low,4/26/2025,5/13/2025,,29731,3,Garciafurt,Yes,15721,14010,Partial
+P0249,Walter Ramirez,88,F,Low,2/28/2025,3/6/2025,Heart Disease,4023,3,Tylerborough,No,1040,2983,Partial
+P0257,Meghan Gomez,45,M,Low,4/15/2025,4/15/2025,"Hypertension, Asthma",25377,3,Reyesstad,No,16626,8751,Partial
+P0261,Peter Harvey,25,F,Low,5/7/2025,5/12/2025,"Diabetes, Diabetes",25599,3,Lake Kristine,No,14342,11257,Partial
+P0269,Dustin Stewart,57,M,Low,4/11/2025,5/9/2025,"Cancer, Hypertension, Fracture",12162,3,Lawsonhaven,Yes,6837,5325,Partial
+P0273,Patrick Mccarthy,25,M,Low,4/29/2025,5/10/2025,"Fracture, Cancer, Hypertension",29786,3,Smithberg,Yes,13519,16267,Partial
+P0281,Joel Knox,23,F,Low,3/13/2025,4/27/2025,"Asthma, Cancer",24425,3,Port Michael,No,251,24174,Partial
+P0295,Adam Luna,67,M,Low,4/9/2025,4/28/2025,Hypertension,11227,3,Jacobberg,Yes,5465,5762,Partial
+P0297,Julie Wilson,51,M,Low,4/6/2025,4/15/2025,"Hypertension, Fracture",7635,3,Gonzalezville,No,6136,1499,Partial
+P0300,Mark Watts,42,F,Low,2/21/2025,4/4/2025,Fracture,12845,3,Gibsonfurt,Yes,10404,2441,Partial
+P0301,Christopher Sanders,46,F,Low,5/8/2025,5/8/2025,"Asthma, Asthma",25819,3,Port Barry,Yes,3388,22431,Partial
+P0302,Cole Smith,41,F,Low,4/13/2025,4/14/2025,"Heart Disease, Cancer",1811,3,Pagetown,No,1077,734,Partial
+P0303,Jennifer Cole,34,F,Low,2/16/2025,4/27/2025,"Cancer, Asthma, Hypertension",14133,3,Jessicamouth,Yes,11357,2776,Partial
+P0322,Sue Raymond,8,F,Low,4/27/2025,4/27/2025,"Hypertension, Fracture",3477,3,Danielburgh,Yes,2240,1237,Partial
+P0328,Lisa Williams,16,F,Low,4/16/2025,4/27/2025,Diabetes,10314,3,Clarkview,Yes,6232,4082,Partial
+P0334,Meghan Johnson,85,M,Low,5/7/2025,5/7/2025,"Diabetes, Asthma",23691,3,Stephaniefurt,Yes,4250,19441,Partial
+P0345,Daniel Lowery,23,F,Low,2/17/2025,2/17/2025,"Asthma, Diabetes, Hypertension",21902,3,Port Jenniferberg,Yes,14301,7601,Partial
+P0354,Julie Mendoza,53,F,Low,3/14/2025,4/26/2025,"Diabetes, Diabetes",17151,3,New Jesusberg,No,12714,4437,Partial
+P0390,Dawn Porter,30,F,Low,4/10/2025,4/22/2025,,14338,3,South Allenshire,No,6998,7340,Partial
+P0395,Benjamin Martin,29,M,Low,4/11/2025,4/14/2025,,3062,3,Port Stephanie,No,1249,1813,Partial
+P0396,Nicholas Anderson Jr.,29,M,Low,2/18/2025,3/12/2025,"Fracture, Diabetes",11681,3,Omarport,No,1231,10450,Partial
+P0403,Dillon Shah,27,F,Low,3/15/2025,3/19/2025,,21768,3,New Richard,No,11722,10046,Partial
+P0413,Brianna Martinez,40,M,Low,2/19/2025,4/29/2025,,25787,3,Brandonborough,Yes,11488,14299,Partial
+P0417,Michael Gordon,4,F,Low,2/27/2025,3/5/2025,Heart Disease,23795,3,Rogerville,No,21197,2598,Partial
+P0431,Olivia Castillo,41,F,Low,4/16/2025,5/2/2025,Cancer,8455,3,Wilsonview,Yes,1392,7063,Partial
+P0436,Patricia Schroeder,16,F,Low,3/14/2025,5/2/2025,"Heart Disease, Asthma, Fracture",25580,3,South Mary,No,14106,11474,Partial
+P0438,Patricia Rhodes,6,F,Low,2/25/2025,5/10/2025,"Hypertension, Hypertension, Hypertension",12748,3,Johnfurt,Yes,7742,5006,Partial
+P0439,Bryan Moran,44,F,Low,4/19/2025,5/4/2025,"Asthma, Cancer",24701,3,South Stephanie,Yes,13356,11345,Partial
+P0443,Albert Stevens,86,F,Low,2/22/2025,5/12/2025,Asthma,23546,3,Perryfort,No,458,23088,Partial
+P0465,Nathaniel Medina,66,F,Low,4/12/2025,4/21/2025,"Cancer, Hypertension",24920,3,Barrburgh,No,21654,3266,Partial
+P0476,Jocelyn Walker,44,M,Low,4/15/2025,4/25/2025,,10045,3,East Ashley,No,3472,6573,Partial
+P0477,Amy Johns,78,M,Low,2/17/2025,4/5/2025,"Cancer, Cancer",24845,3,Lisachester,No,4012,20833,Partial
+P0478,Anna Elliott,34,M,Low,3/18/2025,4/26/2025,,13384,3,Jasonport,Yes,10545,2839,Partial
+P0485,Brittany Graham,27,F,Low,3/6/2025,4/6/2025,Hypertension,11047,3,Port Rogerton,No,1406,9641,Partial
+P0487,Jose Brown,21,M,Low,5/8/2025,5/13/2025,,15832,3,Port David,Yes,10564,5268,Partial
+P0490,Todd Brown,48,M,Low,3/15/2025,3/25/2025,"Asthma, Cancer",987,3,Williamsburgh,No,387,600,Partial
+P0494,Brent Watson,11,F,Low,4/22/2025,5/11/2025,"Asthma, Cancer, Fracture",29972,3,Garyview,No,28502,1470,Partial
+P0497,Jeanette Patterson,46,F,Low,2/22/2025,4/4/2025,,28933,3,Whitneyshire,Yes,24114,4819,Partial
+P0499,Brianna Hanson,58,F,Low,2/18/2025,3/30/2025,,26371,3,Cindybury,Yes,2710,23661,Partial
+P0503,Jade Watkins,80,M,Low,4/5/2025,4/7/2025,"Heart Disease, Cancer",25709,3,Port Caitlin,No,1476,24233,Partial
+P0504,Jennifer Mendez,50,F,Low,4/3/2025,5/13/2025,"Diabetes, Cancer",6549,3,Lake Lisa,No,4499,2050,Partial
+P0506,Tammy Franklin,46,F,Low,4/28/2025,5/12/2025,"Cancer, Heart Disease, Diabetes",4647,3,Pamelaberg,Yes,19,4628,Partial
+P0511,Stephen Price,39,F,Low,2/15/2025,4/28/2025,,25027,3,Cameronville,No,7807,17220,Partial
+P0520,Cheryl Lara,82,M,Low,3/17/2025,4/2/2025,Asthma,8331,3,Lake Nancyview,No,251,8080,Partial
+P0537,Jeffrey Mcknight,13,M,Low,4/3/2025,4/3/2025,"Heart Disease, Diabetes, Heart Disease",5477,3,South Amy,Yes,280,5197,Partial
+P0540,Jessica Phillips,76,F,Low,3/18/2025,4/27/2025,,15965,3,Lake Jasmine,No,8344,7621,Partial
+P0552,Danielle Keith,35,F,Low,3/13/2025,4/3/2025,Hypertension,5818,3,Smithburgh,Yes,1864,3954,Partial
+P0560,Victoria Wright,39,F,Low,4/17/2025,5/6/2025,"Hypertension, Hypertension",26091,3,West Shirley,Yes,9765,16326,Partial
+P0562,Deanna Rice,39,M,Low,5/6/2025,5/9/2025,,22295,3,Port Andrea,Yes,16508,5787,Partial
+P0574,Julia Miller,29,F,Low,3/10/2025,4/12/2025,Fracture,16262,3,Monicachester,Yes,9460,6802,Partial
+P0584,Megan Dominguez,6,M,Low,4/14/2025,5/4/2025,"Cancer, Asthma, Cancer",26775,3,West Williamview,Yes,13740,13035,Partial
+P0588,Troy Cannon,60,F,Low,3/9/2025,3/14/2025,"Heart Disease, Cancer",5561,3,Jacksonberg,No,4143,1418,Partial
+P0596,Kayla Hanson,27,F,Low,3/8/2025,4/16/2025,"Cancer, Cancer, Cancer",10468,3,Shellyport,Yes,6503,3965,Partial
+P0604,Hector Guerra,1,M,Low,4/15/2025,4/20/2025,,5531,3,Brandonburgh,No,2930,2601,Partial
+P0606,Christina Robinson,47,F,Low,5/3/2025,5/6/2025,"Asthma, Asthma",9547,3,Brownchester,No,3710,5837,Partial
+P0607,Shannon Rodriguez,44,F,Low,4/30/2025,5/7/2025,"Fracture, Asthma, Diabetes",9718,3,New John,Yes,9050,668,Partial
+P0611,Andrew Guzman,76,F,Low,4/21/2025,4/28/2025,"Fracture, Hypertension, Hypertension",5191,3,Laurahaven,Yes,933,4258,Partial
+P0623,Cheryl Mills,88,M,Low,4/19/2025,4/20/2025,,15954,3,Houseland,No,9596,6358,Partial
+P0628,Tiffany Ross,28,F,Low,4/21/2025,4/22/2025,"Asthma, Cancer, Heart Disease",22404,3,Matthewbury,No,7562,14842,Partial
+P0633,Monique Gillespie,38,M,Low,5/5/2025,5/10/2025,"Asthma, Heart Disease",15135,3,Valenzuelaborough,Yes,10248,4887,Partial
+P0634,James Diaz,52,M,Low,4/19/2025,5/6/2025,,17000,3,North Cassandrastad,No,12699,4301,Partial
+P0642,Kara Rivera,45,F,Low,4/8/2025,4/8/2025,"Hypertension, Fracture, Asthma",3119,3,Lawrenceview,Yes,5,3114,Partial
+P0652,Diana Nelson,34,F,Low,3/29/2025,5/1/2025,,374,3,Millerhaven,Yes,125,249,Partial
+P0656,Brenda Jones,12,F,Low,5/10/2025,5/12/2025,Cancer,13603,3,New Lisa,Yes,1264,12339,Partial
+P0665,Felicia Sullivan,87,F,Low,3/21/2025,4/12/2025,"Heart Disease, Diabetes, Hypertension",24405,3,West Michael,No,24223,182,Partial
+P0667,Cameron Marquez,54,M,Low,3/4/2025,4/15/2025,"Heart Disease, Diabetes, Hypertension",25830,3,Tamarastad,No,13389,12441,Partial
+P0669,Corey Perez,12,F,Low,3/6/2025,5/11/2025,"Cancer, Hypertension, Hypertension",5535,3,South Alan,No,534,5001,Partial
+P0681,Laura Watson,87,F,Low,3/25/2025,3/30/2025,"Heart Disease, Asthma",22235,3,Jessicaburgh,No,18567,3668,Partial
+P0683,Alex Jenkins,9,M,Low,3/30/2025,4/22/2025,"Cancer, Heart Disease, Cancer",10859,3,Fosterberg,No,8789,2070,Partial
+P0688,Adam White,44,F,Low,3/1/2025,3/12/2025,"Heart Disease, Diabetes, Heart Disease",6239,3,New Sheena,Yes,2679,3560,Partial
+P0696,Kaitlyn Graves,88,M,Low,5/5/2025,5/5/2025,"Fracture, Diabetes",347,3,North Cynthiaborough,Yes,231,116,Partial
+P0703,Darin Wilson,63,M,Low,2/23/2025,4/6/2025,"Hypertension, Heart Disease, Hypertension",22310,3,Whitneyfort,Yes,12594,9716,Partial
+P0704,Megan White,51,F,Low,5/7/2025,5/9/2025,Heart Disease,4960,3,New Jameshaven,Yes,1415,3545,Partial
+P0711,Joseph Cox,52,M,Low,3/9/2025,5/8/2025,,24744,3,Lake Kelly,Yes,18355,6389,Partial
+P0733,Alyssa Steele,72,M,Low,4/8/2025,4/16/2025,"Heart Disease, Hypertension, Heart Disease",17531,3,South Sarah,Yes,14163,3368,Partial
+P0737,Michelle Bennett,36,F,Low,5/11/2025,5/12/2025,,20952,3,Morganstad,Yes,15857,5095,Partial
+P0739,Gary Jones,15,F,Low,3/15/2025,4/3/2025,"Cancer, Hypertension, Heart Disease",11932,3,Smithton,Yes,6412,5520,Partial
+P0740,Terri Strickland,66,M,Low,2/22/2025,4/22/2025,"Cancer, Asthma, Hypertension",3522,3,New Charlesmouth,Yes,1573,1949,Partial
+P0746,Kenneth Wilcox,90,M,Low,4/17/2025,4/30/2025,"Heart Disease, Cancer, Fracture",21087,3,New Brandimouth,Yes,10402,10685,Partial
+P0748,Jennifer Allison,27,M,Low,5/6/2025,5/6/2025,"Cancer, Asthma",3427,3,New Kevin,Yes,598,2829,Partial
+P0749,John Gutierrez,74,F,Low,3/18/2025,4/9/2025,Cancer,20712,3,South Claudia,Yes,10501,10211,Partial
+P0765,Ian Jones,24,F,Low,3/17/2025,4/3/2025,"Diabetes, Asthma",14153,3,Jamestown,Yes,5973,8180,Partial
+P0766,Lisa Jenkins,16,F,Low,3/8/2025,5/13/2025,,11042,3,Morrisborough,No,2118,8924,Partial
+P0769,Brittany Walker,48,F,Low,5/9/2025,5/9/2025,,14445,3,Huntershire,No,12965,1480,Partial
+P0774,Lisa Thomas,66,F,Low,2/17/2025,4/10/2025,,16119,3,Dunnhaven,Yes,13374,2745,Partial
+P0783,Christopher Church,85,M,Low,4/7/2025,5/13/2025,"Cancer, Fracture",19840,3,Thompsonport,No,2540,17300,Partial
+P0784,Randall Johnson,37,M,Low,3/25/2025,5/9/2025,"Diabetes, Hypertension",4963,3,Anthonychester,Yes,2197,2766,Partial
+P0786,Misty Ross,78,F,Low,3/18/2025,4/24/2025,,2540,3,Watsonport,No,253,2287,Partial
+P0794,Robert Blair,77,M,Low,4/1/2025,5/13/2025,Cancer,22729,3,Andersonview,No,16763,5966,Partial
+P0800,Scott Marshall,56,F,Low,4/17/2025,4/23/2025,"Asthma, Fracture, Hypertension",11501,3,Port Jennifertown,Yes,4038,7463,Partial
+P0804,Cameron Allen Jr.,19,F,Low,2/23/2025,3/7/2025,,15260,3,North Darryl,No,8115,7145,Partial
+P0806,Jodi Hall,41,F,Low,4/6/2025,4/24/2025,,24012,3,South Courtney,No,2065,21947,Partial
+P0810,Maria Ortega,5,M,Low,4/16/2025,5/9/2025,"Heart Disease, Cancer, Heart Disease",9951,3,North Ronaldton,No,7712,2239,Partial
+P0811,William Jordan,54,F,Low,4/2/2025,4/30/2025,"Cancer, Heart Disease",11144,3,Donnamouth,No,6312,4832,Partial
+P0822,Mary Duncan,18,F,Low,4/5/2025,5/2/2025,Diabetes,26000,3,New Leahport,No,13984,12016,Partial
+P0831,Joseph George,86,F,Low,5/12/2025,5/12/2025,Asthma,23924,3,South Donnaside,No,10105,13819,Partial
+P0832,Dr. Kevin Brown DDS,62,F,Low,4/19/2025,4/20/2025,,29570,3,Lake Joshuaville,No,13334,16236,Partial
+P0844,Amy Green,76,F,Low,4/9/2025,5/3/2025,,4456,3,Port Victoriaville,No,3935,521,Partial
+P0846,Kimberly Smith,53,F,Low,5/2/2025,5/7/2025,Hypertension,9634,3,North Sarah,No,4074,5560,Partial
+P0856,Michele Silva,51,F,Low,4/12/2025,5/13/2025,,29745,3,Amandaborough,No,20276,9469,Partial
+P0861,Hannah Gray,51,F,Low,4/27/2025,5/13/2025,Fracture,14052,3,Kennethhaven,No,2485,11567,Partial
+P0874,Curtis Lawrence,63,M,Low,2/27/2025,4/8/2025,,20578,3,Alexaton,Yes,5526,15052,Partial
+P0879,Jasmine Schmidt,48,F,Low,3/31/2025,4/23/2025,"Hypertension, Fracture, Asthma",27852,3,Rileytown,No,22252,5600,Partial
+P0887,Jerome Haney,40,F,Low,4/6/2025,4/17/2025,,23331,3,Lake George,Yes,13236,10095,Partial
+P0894,Lori Marshall,7,F,Low,4/30/2025,5/6/2025,Asthma,12744,3,Juanmouth,No,4562,8182,Partial
+P0904,Jeremy Roman,73,F,Low,5/13/2025,5/13/2025,"Asthma, Fracture",8873,3,Davidland,Yes,613,8260,Partial
+P0918,Maria Cameron,8,M,Low,2/28/2025,3/8/2025,"Heart Disease, Hypertension, Cancer",16846,3,Jonshire,Yes,13530,3316,Partial
+P0943,Michael Shelton,39,F,Low,3/24/2025,4/6/2025,"Heart Disease, Diabetes",11042,3,Ramosstad,Yes,1190,9852,Partial
+P0952,James Cook,13,F,Low,5/6/2025,5/11/2025,"Heart Disease, Heart Disease",4352,3,Jamesborough,Yes,100,4252,Partial
+P0954,James Thompson,42,F,Low,4/17/2025,5/5/2025,,27223,3,North Mark,No,12174,15049,Partial
+P0960,Katelyn Meyers,54,F,Low,4/20/2025,4/29/2025,"Cancer, Diabetes",26583,3,West Adrianborough,Yes,3495,23088,Partial
+P0974,Jennifer Shepherd,68,M,Low,3/15/2025,3/30/2025,,26869,3,East Eric,No,7789,19080,Partial
+P0978,Kevin Reid,68,M,Low,5/7/2025,5/8/2025,"Diabetes, Fracture",15786,3,North James,Yes,981,14805,Partial
+P0979,Holly Vaughan,43,M,Low,2/19/2025,3/8/2025,,28003,3,East Shelley,Yes,557,27446,Partial
+P0991,Paul Adams,47,M,Low,3/18/2025,4/22/2025,,27949,3,Breannaview,Yes,12241,15708,Partial
+P0995,Albert Johnson,87,M,Low,2/28/2025,2/28/2025,Heart Disease,19170,3,Sandershaven,Yes,10334,8836,Partial
+P0002,Johnny Burns,65,F,Medium,4/5/2025,4/8/2025,"Asthma, Heart Disease",11616,2,Lake Veronica,No,11199,417,Partial
+P0006,Kyle Thomas,81,F,Medium,2/27/2025,3/25/2025,Heart Disease,1151,2,Lake Kimberlychester,Yes,1109,42,Partial
+P0007,Kristie Frank,52,M,Medium,4/1/2025,4/2/2025,Hypertension,6198,2,North Douglaschester,No,935,5263,Partial
+P0008,Kimberly Colon,26,F,Medium,3/5/2025,3/20/2025,"Asthma, Asthma",25608,2,New Mitchell,Yes,9891,15717,Partial
+P0012,Isaac Simon,36,F,Medium,3/11/2025,4/21/2025,,3439,2,Austintown,Yes,3339,100,Partial
+P0021,Lori Ingram,52,M,Medium,4/16/2025,4/29/2025,Cancer,4952,2,Tammystad,No,4788,164,Partial
+P0034,Alison Francis,43,M,Medium,3/17/2025,5/5/2025,,5686,2,Denisemouth,No,5575,111,Partial
+P0040,Shawn Burton,46,F,Medium,3/27/2025,4/11/2025,"Fracture, Fracture, Asthma",25551,2,Normanside,Yes,1086,24465,Partial
+P0044,Diana Mercado,55,F,Medium,5/6/2025,5/8/2025,"Hypertension, Diabetes, Cancer",21820,2,New Beth,Yes,9666,12154,Partial
+P0045,John Acosta,41,M,Medium,4/24/2025,5/10/2025,"Heart Disease, Diabetes, Diabetes",12353,2,Stephanieborough,No,9677,2676,Partial
+P0052,Melissa Davis,71,M,Medium,3/20/2025,5/8/2025,Hypertension,26630,2,West Lori,Yes,18644,7986,Partial
+P0065,Paul Austin,49,F,Medium,5/1/2025,5/12/2025,,18990,2,South Margaret,Yes,12013,6977,Partial
+P0079,Eric Harris,43,M,Medium,4/8/2025,4/13/2025,Diabetes,24598,2,Nguyenfurt,Yes,24229,369,Partial
+P0087,Sean Jackson,32,F,Medium,5/5/2025,5/7/2025,Asthma,23734,2,West John,No,1108,22626,Partial
+P0093,Mark Hammond,43,F,Medium,5/13/2025,5/13/2025,,12497,2,Gabrielletown,No,7630,4867,Partial
+P0097,Patty Jones,83,F,Medium,2/25/2025,3/19/2025,"Heart Disease, Fracture",26204,2,Port Jared,No,16046,10158,Partial
+P0105,Molly Johnson,19,M,Medium,5/7/2025,5/11/2025,Asthma,20689,2,Nicholsview,Yes,2644,18045,Partial
+P0111,Rebecca Marquez,86,F,Medium,4/6/2025,5/12/2025,"Asthma, Asthma",277,2,Sandrashire,Yes,190,87,Partial
+P0112,Joshua Mccarthy,14,F,Medium,2/24/2025,3/19/2025,"Hypertension, Cancer",24494,2,East Peterstad,No,21143,3351,Partial
+P0117,Brendan Rios,64,M,Medium,3/22/2025,4/4/2025,"Hypertension, Cancer, Fracture",924,2,South Lisa,No,386,538,Partial
+P0124,Julie Arroyo,6,F,Medium,4/8/2025,4/22/2025,Fracture,9974,2,North Jenniferbury,No,4475,5499,Partial
+P0125,Kevin Myers,27,M,Medium,2/23/2025,3/10/2025,"Cancer, Heart Disease",6282,2,Floresmouth,Yes,315,5967,Partial
+P0127,Charles Moon,78,F,Medium,3/25/2025,5/7/2025,"Heart Disease, Cancer, Hypertension",4488,2,Jasonburgh,Yes,3879,609,Partial
+P0129,Ryan Middleton,51,F,Medium,2/22/2025,4/3/2025,"Asthma, Cancer, Fracture",8972,2,West Pamelaborough,Yes,5639,3333,Partial
+P0130,Mrs. Gabriela Carr,29,M,Medium,4/19/2025,5/8/2025,"Cancer, Hypertension",13203,2,Port Alexa,No,2315,10888,Partial
+P0137,Margaret Peters,8,F,Medium,3/21/2025,4/27/2025,"Cancer, Asthma, Hypertension",16651,2,Johnburgh,Yes,1702,14949,Partial
+P0148,Eric Schmidt,12,M,Medium,5/7/2025,5/12/2025,"Diabetes, Heart Disease",16223,2,New Danny,Yes,8410,7813,Partial
+P0156,Mary Martinez,13,M,Medium,3/30/2025,3/30/2025,,17390,2,East Christopherstad,Yes,6705,10685,Partial
+P0167,Matthew Gardner,36,F,Medium,5/10/2025,5/12/2025,"Fracture, Cancer",29486,2,West Albertberg,No,4545,24941,Partial
+P0171,Michelle Cantrell,54,M,Medium,3/29/2025,4/27/2025,"Cancer, Hypertension, Asthma",12208,2,Lauraburgh,Yes,1601,10607,Partial
+P0174,Christine Young,33,M,Medium,2/23/2025,2/26/2025,"Asthma, Cancer",26938,2,Port Savannah,No,9093,17845,Partial
+P0176,Wanda Lee,15,M,Medium,2/17/2025,3/29/2025,Diabetes,20713,2,Larsenville,Yes,9957,10756,Partial
+P0178,Jonathan Thornton,78,M,Medium,3/5/2025,4/12/2025,Asthma,5545,2,West Davidville,Yes,2794,2751,Partial
+P0184,Daniel Petty,68,M,Medium,3/2/2025,4/4/2025,Diabetes,1966,2,Rebeccastad,No,909,1057,Partial
+P0196,Caroline Kennedy,42,M,Medium,4/1/2025,4/23/2025,Cancer,22938,2,Jeffreyburgh,Yes,4662,18276,Partial
+P0201,Amanda Thornton DVM,33,F,Medium,3/25/2025,4/10/2025,"Cancer, Heart Disease",8564,2,New Aprilmouth,No,1715,6849,Partial
+P0207,Ethan Gray,38,M,Medium,3/2/2025,4/28/2025,Cancer,18753,2,Whitechester,No,7892,10861,Partial
+P0209,Andrew Romero,67,M,Medium,4/17/2025,5/13/2025,Asthma,33,2,North Paulton,Yes,31,2,Partial
+P0230,Clarence Moran,7,F,Medium,3/11/2025,3/24/2025,"Heart Disease, Diabetes",28238,2,Duffytown,No,8157,20081,Partial
+P0231,Luis Vazquez,52,F,Medium,3/14/2025,3/26/2025,"Cancer, Fracture, Diabetes",9878,2,North Darrell,Yes,4371,5507,Partial
+P0240,Dr. Joseph Collins MD,75,M,Medium,2/13/2025,3/6/2025,Heart Disease,1980,2,West Rebecca,No,381,1599,Partial
+P0255,Nancy Williams,88,M,Medium,2/24/2025,4/24/2025,"Asthma, Asthma",10600,2,East John,Yes,6500,4100,Partial
+P0262,Stanley Steele,35,F,Medium,4/18/2025,4/22/2025,Fracture,29533,2,South Kellyport,No,13350,16183,Partial
+P0264,Patrick Stephenson,14,F,Medium,4/22/2025,5/5/2025,Heart Disease,7326,2,Heathermouth,Yes,1304,6022,Partial
+P0265,Cory Howard,1,M,Medium,2/22/2025,4/3/2025,"Fracture, Asthma",21930,2,East Sandra,No,15732,6198,Partial
+P0268,Megan Lawrence,4,F,Medium,2/23/2025,3/5/2025,,19931,2,North Annastad,Yes,6157,13774,Partial
+P0277,Curtis Mclaughlin,19,M,Medium,3/4/2025,5/4/2025,"Cancer, Fracture",11136,2,Lindaport,Yes,8750,2386,Partial
+P0286,Pamela Friedman,25,M,Medium,4/15/2025,4/23/2025,"Diabetes, Asthma, Cancer",24641,2,Jacobside,Yes,5920,18721,Partial
+P0318,Adam Lopez,89,M,Medium,4/27/2025,4/30/2025,,14342,2,West John,No,3838,10504,Partial
+P0326,Brittany Martin,58,M,Medium,4/14/2025,5/6/2025,,28883,2,Jessefurt,Yes,10625,18258,Partial
+P0333,Audrey Fowler,70,F,Medium,3/16/2025,4/22/2025,"Asthma, Fracture, Diabetes",28327,2,East Mikeland,Yes,20809,7518,Partial
+P0346,Valerie Hernandez,19,F,Medium,4/1/2025,4/11/2025,Asthma,10088,2,North Justin,No,8826,1262,Partial
+P0362,Michael Davis,6,M,Medium,5/12/2025,5/13/2025,,2644,2,South Peterfort,No,163,2481,Partial
+P0363,Kenneth Bradshaw,11,M,Medium,4/24/2025,5/11/2025,"Diabetes, Asthma",15619,2,Lake Ginamouth,Yes,8441,7178,Partial
+P0367,James Blevins,61,M,Medium,5/4/2025,5/13/2025,"Hypertension, Diabetes",20370,2,Port Shawnhaven,Yes,12535,7835,Partial
+P0368,Cory Mann,45,M,Medium,5/10/2025,5/10/2025,,21914,2,Lake Michael,Yes,14948,6966,Partial
+P0369,Janet Sanchez,68,M,Medium,2/18/2025,3/16/2025,,768,2,Robertshaven,Yes,156,612,Partial
+P0371,Amy English,13,M,Medium,4/4/2025,4/18/2025,Heart Disease,736,2,East Ericafurt,No,114,622,Partial
+P0375,Patrick Ayers,64,F,Medium,2/28/2025,3/29/2025,Hypertension,9454,2,Coleside,Yes,4342,5112,Partial
+P0376,Dennis Ashley,64,F,Medium,2/27/2025,4/16/2025,"Diabetes, Heart Disease, Heart Disease",13865,2,Welchchester,Yes,11010,2855,Partial
+P0397,Jane Robinson,12,F,Medium,3/20/2025,5/3/2025,"Cancer, Diabetes",19288,2,Parkbury,Yes,16993,2295,Partial
+P0400,Mallory Fields,77,F,Medium,2/25/2025,5/12/2025,,7298,2,Lake Ginabury,No,3727,3571,Partial
+P0404,Crystal Mercer,35,F,Medium,3/18/2025,5/13/2025,"Cancer, Diabetes, Asthma",16455,2,West Marc,Yes,8417,8038,Partial
+P0409,Laura Hancock,29,F,Medium,4/28/2025,5/8/2025,"Asthma, Fracture",2234,2,North Jasonland,No,2083,151,Partial
+P0421,Michael Collins,27,M,Medium,4/17/2025,4/30/2025,"Diabetes, Asthma",26711,2,West Robert,No,6651,20060,Partial
+P0425,Thomas Martinez,70,M,Medium,4/19/2025,5/1/2025,"Diabetes, Asthma, Cancer",24172,2,Port Michele,No,22343,1829,Partial
+P0427,Gary Rodriguez,88,M,Medium,3/13/2025,3/23/2025,"Diabetes, Cancer",16772,2,East Taylorstad,No,4093,12679,Partial
+P0430,Whitney Anderson,76,M,Medium,5/1/2025,5/7/2025,"Hypertension, Hypertension, Hypertension",12426,2,Jordanside,No,10736,1690,Partial
+P0447,Edward Donaldson,19,M,Medium,2/18/2025,4/12/2025,,23504,2,Wallstown,No,15057,8447,Partial
+P0456,Carol Peck,66,M,Medium,4/16/2025,4/16/2025,Fracture,18751,2,Davisside,Yes,13074,5677,Partial
+P0464,Angela Stone,32,M,Medium,4/15/2025,4/24/2025,"Heart Disease, Diabetes, Hypertension",13757,2,South Josephton,Yes,892,12865,Partial
+P0469,Vanessa Eaton,21,M,Medium,3/13/2025,3/25/2025,"Fracture, Asthma",488,2,Amyfort,Yes,196,292,Partial
+P0470,Raymond Brennan,36,M,Medium,3/9/2025,3/28/2025,Hypertension,12843,2,Port Robert,Yes,7115,5728,Partial
+P0474,Jonathan Watson,47,F,Medium,3/14/2025,5/7/2025,"Diabetes, Fracture, Diabetes",11869,2,Nathanielside,No,856,11013,Partial
+P0480,Robert Smith,67,M,Medium,2/22/2025,5/1/2025,,25153,2,Deborahfort,No,703,24450,Partial
+P0492,Carlos Jenkins,20,F,Medium,4/9/2025,4/12/2025,"Diabetes, Hypertension, Asthma",5859,2,New Charlesberg,No,667,5192,Partial
+P0495,Jerry Obrien,66,F,Medium,3/19/2025,3/23/2025,,8834,2,North Davidton,No,5158,3676,Partial
+P0501,Laura Miller,90,F,Medium,4/22/2025,4/29/2025,Fracture,21508,2,West Keith,No,11132,10376,Partial
+P0513,Angel Jensen,36,F,Medium,2/16/2025,4/28/2025,Heart Disease,10582,2,Georgefurt,No,5075,5507,Partial
+P0516,Anthony Thomas,77,M,Medium,3/11/2025,3/12/2025,,21666,2,Port Stephanie,Yes,18284,3382,Partial
+P0521,Timothy Watson,64,M,Medium,3/3/2025,3/15/2025,Cancer,23959,2,Smithmouth,No,18009,5950,Partial
+P0525,Juan Wagner,69,M,Medium,3/4/2025,5/9/2025,"Cancer, Fracture, Fracture",13115,2,Marcusland,No,7423,5692,Partial
+P0531,Juan Jones,84,M,Medium,4/14/2025,4/15/2025,"Diabetes, Cancer",15063,2,North Michaelchester,No,10823,4240,Partial
+P0534,George Richardson,65,M,Medium,4/23/2025,5/2/2025,"Heart Disease, Asthma",2216,2,New Kevinport,No,1487,729,Partial
+P0535,Evelyn Curry,72,F,Medium,4/2/2025,4/18/2025,Diabetes,1802,2,Charlesburgh,Yes,1570,232,Partial
+P0543,Calvin Johnson,34,F,Medium,5/13/2025,5/13/2025,,3653,2,West Frankstad,No,1466,2187,Partial
+P0545,James Simmons,55,M,Medium,5/1/2025,5/1/2025,"Cancer, Diabetes",4008,2,West Travistown,Yes,2340,1668,Partial
+P0548,Nicole Howard,90,M,Medium,4/27/2025,5/5/2025,"Fracture, Heart Disease",21627,2,Lake Aaron,Yes,6680,14947,Partial
+P0553,Jamie Cooper,7,M,Medium,3/21/2025,4/17/2025,"Fracture, Hypertension",8881,2,East Adam,Yes,3302,5579,Partial
+P0554,Elizabeth Bailey,37,F,Medium,3/16/2025,4/2/2025,,13627,2,West Travisberg,No,6065,7562,Partial
+P0563,Micheal Williams,60,F,Medium,4/16/2025,5/6/2025,"Fracture, Diabetes, Hypertension",27573,2,East Victoriaborough,Yes,6146,21427,Partial
+P0566,Kayla Patterson,37,M,Medium,5/1/2025,5/8/2025,Asthma,6102,2,Williamsonmouth,No,1981,4121,Partial
+P0567,Christine Miles,47,F,Medium,2/15/2025,5/10/2025,"Fracture, Heart Disease, Heart Disease",28585,2,Jacobland,No,6511,22074,Partial
+P0571,Miss Elizabeth Horton,36,M,Medium,2/19/2025,5/2/2025,Heart Disease,23189,2,Amymouth,No,9355,13834,Partial
+P0572,Michael Robinson,61,M,Medium,5/1/2025,5/5/2025,"Hypertension, Fracture, Diabetes",27484,2,Danielmouth,No,5687,21797,Partial
+P0582,Damon Fuentes,14,M,Medium,4/24/2025,5/1/2025,,13032,2,Jenkinston,Yes,10627,2405,Partial
+P0589,Aaron Clarke,27,M,Medium,3/4/2025,5/9/2025,Asthma,20486,2,Mckenzieville,No,130,20356,Partial
+P0592,Jennifer Stevenson,38,F,Medium,5/3/2025,5/13/2025,"Fracture, Hypertension",23493,2,North Emilyshire,Yes,13169,10324,Partial
+P0603,Douglas Dodson,57,F,Medium,3/15/2025,4/1/2025,Asthma,21329,2,Morganberg,Yes,5483,15846,Partial
+P0608,Andrea Rich,40,M,Medium,3/15/2025,3/24/2025,"Hypertension, Hypertension",16908,2,Melissaton,Yes,1990,14918,Partial
+P0610,Anthony Ellis,50,F,Medium,4/25/2025,5/12/2025,"Diabetes, Heart Disease, Diabetes",18957,2,Duncanchester,No,17321,1636,Partial
+P0622,Dana Wright,22,M,Medium,4/9/2025,5/13/2025,"Diabetes, Diabetes, Heart Disease",22187,2,Joshuafurt,Yes,11079,11108,Partial
+P0625,Scott Skinner,42,M,Medium,4/10/2025,4/28/2025,"Heart Disease, Heart Disease",20953,2,Jaimeberg,No,1051,19902,Partial
+P0629,Andrew Olsen,64,F,Medium,3/17/2025,3/17/2025,Hypertension,27532,2,Scottport,No,25930,1602,Partial
+P0632,Caroline Simmons,19,M,Medium,4/30/2025,5/8/2025,"Heart Disease, Hypertension",7540,2,Brownport,Yes,1936,5604,Partial
+P0638,Victor Sanford,78,M,Medium,4/27/2025,5/2/2025,Hypertension,15776,2,Davidhaven,Yes,1545,14231,Partial
+P0639,Barbara Hughes,32,M,Medium,4/16/2025,5/12/2025,Hypertension,124,2,Patriciabury,Yes,19,105,Partial
+P0643,Alexis Mason,33,F,Medium,3/13/2025,3/28/2025,"Hypertension, Cancer, Heart Disease",9214,2,South Toddburgh,No,5262,3952,Partial
+P0651,William Waters,76,M,Medium,3/30/2025,4/15/2025,,25237,2,Walltown,Yes,17077,8160,Partial
+P0653,Ann Middleton,7,M,Medium,3/3/2025,3/17/2025,"Fracture, Heart Disease, Hypertension",948,2,Jennashire,No,800,148,Partial
+P0660,Jennifer Barton,10,F,Medium,2/27/2025,5/4/2025,"Fracture, Fracture, Asthma",10412,2,Reyeschester,Yes,177,10235,Partial
+P0671,George Mcdonald,73,F,Medium,4/19/2025,4/24/2025,,16701,2,North Erin,Yes,2978,13723,Partial
+P0682,Thomas Bond,16,F,Medium,3/10/2025,4/8/2025,"Cancer, Cancer",9592,2,Williamsberg,Yes,526,9066,Partial
+P0686,Jonathan Porter,60,F,Medium,3/22/2025,3/22/2025,,14289,2,New Diane,Yes,9048,5241,Partial
+P0693,Lauren Cox,71,M,Medium,2/18/2025,3/1/2025,"Fracture, Diabetes",3790,2,South Daniellefort,Yes,2254,1536,Partial
+P0705,David White,77,F,Medium,3/16/2025,4/14/2025,"Diabetes, Hypertension",1168,2,Lake Tiffany,Yes,966,202,Partial
+P0708,Luke Carey,54,M,Medium,3/5/2025,5/2/2025,,15735,2,Williamsville,Yes,7290,8445,Partial
+P0712,Mr. Brian Carlson V,3,M,Medium,3/1/2025,5/6/2025,"Cancer, Hypertension",28483,2,Joshuachester,Yes,14055,14428,Partial
+P0713,Alexis Robinson,37,F,Medium,4/4/2025,4/5/2025,Fracture,22080,2,New Rachaelland,No,4852,17228,Partial
+P0718,Norma Burgess,30,F,Medium,2/25/2025,4/17/2025,"Cancer, Asthma",1392,2,Delgadoview,No,747,645,Partial
+P0721,Katherine Smith,86,F,Medium,3/16/2025,3/18/2025,"Fracture, Hypertension",5472,2,Jonfurt,No,5197,275,Partial
+P0724,Bradley Patterson,65,F,Medium,3/27/2025,4/10/2025,"Cancer, Fracture, Hypertension",7476,2,Melodyville,No,1266,6210,Partial
+P0738,Cody Mcdaniel,30,M,Medium,4/15/2025,5/11/2025,"Hypertension, Diabetes, Fracture",22069,2,Combsland,No,15545,6524,Partial
+P0742,Eric Jenkins,72,F,Medium,4/22/2025,5/13/2025,Hypertension,11028,2,Lake James,Yes,9322,1706,Partial
+P0745,David Davis,47,F,Medium,5/4/2025,5/4/2025,,27010,2,East Jacobbury,No,5783,21227,Partial
+P0755,Matthew Coleman,45,M,Medium,3/22/2025,4/17/2025,"Fracture, Cancer",12253,2,Lake Samanthaville,Yes,6300,5953,Partial
+P0763,Alexandra Davis,53,M,Medium,2/16/2025,3/24/2025,Heart Disease,19561,2,Lake Jeffreyport,Yes,485,19076,Partial
+P0768,Sandra Simmons,3,M,Medium,2/20/2025,3/14/2025,"Diabetes, Hypertension",17356,2,Richardland,No,6354,11002,Partial
+P0778,Bobby Jordan,59,F,Medium,3/13/2025,5/2/2025,,18923,2,Davidfort,Yes,6744,12179,Partial
+P0787,Christopher Foster,51,M,Medium,2/13/2025,3/29/2025,"Hypertension, Cancer, Fracture",1016,2,Johnburgh,No,5,1011,Partial
+P0789,Joshua Weiss,80,M,Medium,2/26/2025,5/11/2025,Diabetes,21288,2,Jamesview,No,5879,15409,Partial
+P0790,Michelle Monroe,5,F,Medium,4/23/2025,4/23/2025,Asthma,1743,2,North Lisa,No,1223,520,Partial
+P0795,Casey Perez,77,M,Medium,5/3/2025,5/7/2025,"Diabetes, Diabetes, Hypertension",29538,2,Lake Jamesfort,No,14863,14675,Partial
+P0797,Kenneth Dominguez,78,F,Medium,4/5/2025,4/20/2025,,23583,2,East Christopher,Yes,14663,8920,Partial
+P0801,Elizabeth Horton,70,M,Medium,3/4/2025,3/15/2025,Cancer,19451,2,Jimmymouth,Yes,3187,16264,Partial
+P0805,Tammy Lee,31,M,Medium,4/25/2025,5/6/2025,Asthma,16369,2,Jenniferfort,No,2537,13832,Partial
+P0815,Brendan Hernandez,43,M,Medium,5/13/2025,5/13/2025,,3051,2,East Michaelland,No,2331,720,Partial
+P0816,Heather Lowe,67,M,Medium,3/17/2025,5/11/2025,,2651,2,Fullerland,No,1730,921,Partial
+P0837,Brandon Pittman,58,M,Medium,3/28/2025,5/5/2025,"Hypertension, Asthma",13173,2,Ericberg,No,9316,3857,Partial
+P0841,Cynthia Carey,76,M,Medium,3/28/2025,4/11/2025,,9242,2,Petersenmouth,No,8124,1118,Partial
+P0843,Douglas Roth,81,F,Medium,4/5/2025,5/11/2025,Diabetes,3987,2,New Kellymouth,No,3673,314,Partial
+P0854,Erin Allen,41,F,Medium,3/10/2025,4/18/2025,,2577,2,Lake Susan,Yes,1703,874,Partial
+P0855,James Hull,68,M,Medium,3/23/2025,4/14/2025,"Diabetes, Heart Disease, Hypertension",14670,2,Cassandratown,Yes,6305,8365,Partial
+P0858,Sara Solomon,75,M,Medium,4/22/2025,5/5/2025,,26548,2,Parkerhaven,No,2563,23985,Partial
+P0863,Jesse Mendez,62,F,Medium,2/21/2025,2/23/2025,,19824,2,Clarkfurt,No,11882,7942,Partial
+P0869,Vickie Ford,26,M,Medium,5/6/2025,5/6/2025,,5199,2,South Andrewville,No,166,5033,Partial
+P0880,Jerry Mcgee,21,M,Medium,3/31/2025,4/4/2025,Heart Disease,2361,2,East Sherry,No,1201,1160,Partial
+P0884,Ryan Ochoa,71,F,Medium,3/22/2025,4/8/2025,"Diabetes, Heart Disease",25498,2,Nicolefurt,Yes,6081,19417,Partial
+P0901,Kenneth Browning,42,F,Medium,3/6/2025,3/18/2025,,11816,2,East Hannahport,No,2787,9029,Partial
+P0905,Christopher Mckee,26,F,Medium,3/11/2025,3/11/2025,"Asthma, Heart Disease",23821,2,Kevinhaven,No,8561,15260,Partial
+P0912,Michael Combs,67,F,Medium,3/13/2025,5/4/2025,,7754,2,Jackview,Yes,4328,3426,Partial
+P0920,Jonathan Herrera,36,F,Medium,3/24/2025,4/26/2025,Cancer,20554,2,Lake Elizabethside,No,15379,5175,Partial
+P0924,Paul Zimmerman MD,62,M,Medium,4/1/2025,5/12/2025,"Hypertension, Diabetes, Diabetes",6983,2,New Stephanie,No,6756,227,Partial
+P0927,Michael Reynolds,32,F,Medium,3/4/2025,4/6/2025,"Diabetes, Cancer",10995,2,South Sarahchester,No,1435,9560,Partial
+P0942,Robert Brooks,61,F,Medium,3/1/2025,4/24/2025,"Asthma, Asthma, Cancer",12892,2,New Sheryl,No,1848,11044,Partial
+P0944,David Gardner,54,F,Medium,5/7/2025,5/9/2025,Heart Disease,27311,2,New Caleb,No,7846,19465,Partial
+P0955,Rodney Palmer,87,F,Medium,4/24/2025,5/11/2025,"Hypertension, Hypertension, Asthma",6798,2,Nelsonberg,Yes,398,6400,Partial
+P0956,Richard Williams,32,M,Medium,2/19/2025,3/26/2025,"Fracture, Fracture, Hypertension",7140,2,Christyhaven,No,4165,2975,Partial
+P0962,Angela Avila,70,F,Medium,4/8/2025,4/22/2025,"Fracture, Asthma",18081,2,Lake Anne,Yes,14708,3373,Partial
+P0966,Stacy Nelson,76,F,Medium,3/22/2025,5/4/2025,"Diabetes, Fracture, Heart Disease",26833,2,Wonghaven,Yes,4280,22553,Partial
+P0972,Bob Burgess,79,F,Medium,4/24/2025,5/3/2025,,4349,2,West Christophershire,Yes,2894,1455,Partial
+P0986,Kimberly Guerrero,21,F,Medium,5/10/2025,5/11/2025,Heart Disease,7822,2,Lake Anthony,Yes,6966,856,Partial
+P0988,Garrett Ward,14,M,Medium,5/8/2025,5/12/2025,"Hypertension, Asthma, Heart Disease",26135,2,Port Sonya,Yes,24811,1324,Partial
+P0990,Jason Christensen,54,F,Medium,3/4/2025,3/5/2025,"Cancer, Heart Disease, Hypertension",7849,2,Phillipberg,No,3654,4195,Partial
+P0996,Katherine White,22,M,Medium,3/25/2025,5/12/2025,,22939,2,Youngville,No,17029,5910,Partial
+P0013,Jasmine Arnold,9,M,High,3/29/2025,5/13/2025,"Fracture, Diabetes, Hypertension",18095,1,East Trevorview,Yes,12858,5237,Partial
+P0037,Jenna Beasley,6,M,High,3/19/2025,3/22/2025,Asthma,7698,1,Lawrencechester,Yes,7248,450,Partial
+P0038,Todd Russell,78,M,High,4/14/2025,4/30/2025,"Diabetes, Diabetes",13754,1,Johnsonside,Yes,8127,5627,Partial
+P0047,Loretta Armstrong,4,F,High,4/6/2025,4/10/2025,Hypertension,3819,1,Popeview,Yes,3758,61,Partial
+P0063,Miguel Sanders,29,M,High,2/14/2025,3/1/2025,"Cancer, Cancer, Asthma",19946,1,Mariehaven,No,7618,12328,Partial
+P0064,Jeffrey Mendoza,19,F,High,3/24/2025,5/4/2025,"Hypertension, Heart Disease, Diabetes",7737,1,Hobbstown,No,6645,1092,Partial
+P0069,Samantha Stevens,18,M,High,4/17/2025,4/28/2025,"Fracture, Diabetes",7294,1,Port Conniefurt,Yes,714,6580,Partial
+P0070,Jacob Petty,48,M,High,5/13/2025,5/13/2025,"Diabetes, Hypertension, Diabetes",15510,1,West Lisaland,Yes,9486,6024,Partial
+P0088,Erin Evans,39,M,High,4/25/2025,5/12/2025,Hypertension,27872,1,Harrisview,Yes,7434,20438,Partial
+P0089,Antonio Johnson,4,M,High,2/20/2025,4/23/2025,"Diabetes, Diabetes, Cancer",11832,1,Roberttown,Yes,5319,6513,Partial
+P0091,Eddie Collier,66,M,High,5/10/2025,5/11/2025,Asthma,21322,1,Jennifertown,Yes,13674,7648,Partial
+P0092,Amy Evans,60,F,High,2/17/2025,2/25/2025,Diabetes,5919,1,Stephanieport,No,595,5324,Partial
+P0102,Debbie Reed DVM,49,F,High,4/12/2025,4/26/2025,Cancer,12793,1,South Andreaberg,Yes,4716,8077,Partial
+P0106,Lori Davis,2,F,High,2/13/2025,3/20/2025,Cancer,1968,1,North Cassidymouth,Yes,151,1817,Partial
+P0108,Patricia Cook,80,M,High,3/21/2025,4/4/2025,"Cancer, Asthma",29047,1,Timothyside,No,14643,14404,Partial
+P0110,Annette Lane,15,M,High,5/11/2025,5/13/2025,"Cancer, Asthma",26703,1,Melissastad,No,17786,8917,Partial
+P0114,Charles Hodges,22,M,High,4/6/2025,4/26/2025,"Hypertension, Diabetes, Cancer",26407,1,Lake Markfurt,No,13475,12932,Partial
+P0115,Susan Taylor,30,M,High,3/12/2025,4/6/2025,,3581,1,Brendaburgh,No,1244,2337,Partial
+P0120,Brandon Barker,52,M,High,4/16/2025,4/30/2025,Fracture,19672,1,Port Kevin,Yes,1820,17852,Partial
+P0128,James West,75,M,High,4/11/2025,5/5/2025,,14947,1,New Jose,No,8069,6878,Partial
+P0132,Allen Dennis,22,M,High,5/5/2025,5/13/2025,"Fracture, Cancer, Cancer",20564,1,Lake Benjamin,No,2253,18311,Partial
+P0138,Cheryl Ballard,71,M,High,4/10/2025,4/12/2025,"Hypertension, Cancer, Heart Disease",2099,1,North Jessica,Yes,118,1981,Partial
+P0145,Adam Hall,46,M,High,3/1/2025,5/11/2025,"Diabetes, Hypertension, Fracture",21255,1,East Brandon,Yes,17511,3744,Partial
+P0151,Stacey Farmer,8,M,High,4/16/2025,5/10/2025,Heart Disease,3472,1,Amandashire,Yes,3304,168,Partial
+P0159,Kevin Shepherd,43,F,High,4/3/2025,4/14/2025,Asthma,6536,1,Elizabethhaven,Yes,3791,2745,Partial
+P0168,Andrea Smith,58,F,High,2/21/2025,2/26/2025,"Cancer, Cancer, Fracture",10248,1,South Chrisville,No,8289,1959,Partial
+P0173,Cheyenne Romero,42,F,High,3/16/2025,4/1/2025,"Cancer, Diabetes",8720,1,Schwartzbury,No,3997,4723,Partial
+P0175,Dana Collins,71,F,High,3/13/2025,4/20/2025,,302,1,North John,No,130,172,Partial
+P0177,Hailey Evans,39,M,High,4/12/2025,4/16/2025,"Asthma, Asthma",24005,1,Lake Samantha,No,5309,18696,Partial
+P0180,Colleen Anderson,47,M,High,3/2/2025,3/21/2025,"Fracture, Fracture",10706,1,Harrisonshire,No,8014,2692,Partial
+P0181,Kyle Henry,10,F,High,5/6/2025,5/6/2025,"Fracture, Diabetes",11713,1,North Joshua,Yes,5238,6475,Partial
+P0182,Terri May,9,M,High,4/7/2025,4/12/2025,"Diabetes, Asthma, Hypertension",6516,1,Daveland,No,5977,539,Partial
+P0185,Brent Wilson,10,M,High,3/26/2025,4/28/2025,Diabetes,22953,1,Rubenland,No,3550,19403,Partial
+P0187,Miguel Reed,89,M,High,3/1/2025,4/4/2025,Asthma,29572,1,Kristinafurt,Yes,6632,22940,Partial
+P0191,Susan Lara,39,M,High,2/19/2025,3/29/2025,"Hypertension, Heart Disease",20464,1,East Jaredstad,No,6824,13640,Partial
+P0192,Brett Gonzales,29,M,High,4/4/2025,4/24/2025,,10884,1,Thomasland,No,4994,5890,Partial
+P0195,Donald Knox,61,M,High,4/7/2025,4/19/2025,Cancer,28450,1,North Edward,Yes,15732,12718,Partial
+P0200,Justin Romero,5,M,High,4/19/2025,5/4/2025,"Heart Disease, Heart Disease",26349,1,Boydberg,No,15031,11318,Partial
+P0204,Matthew Guerrero,16,M,High,4/1/2025,5/13/2025,,22116,1,Boydtown,No,18665,3451,Partial
+P0211,Kyle Bond,28,M,High,3/15/2025,4/23/2025,Cancer,28361,1,Lake Steven,No,25662,2699,Partial
+P0213,Lauren Riley,55,M,High,4/5/2025,5/3/2025,,28942,1,Ericmouth,Yes,27069,1873,Partial
+P0216,Ashley David PhD,52,M,High,2/15/2025,3/26/2025,Fracture,11776,1,Laurentown,No,785,10991,Partial
+P0222,Marissa Hall,25,M,High,4/7/2025,5/1/2025,"Cancer, Diabetes",13454,1,Meganborough,Yes,6532,6922,Partial
+P0227,Anita Buck,14,M,High,3/8/2025,3/17/2025,,24366,1,Reedstad,Yes,6499,17867,Partial
+P0228,Timothy Allen,76,M,High,5/11/2025,5/12/2025,Cancer,2300,1,South Joseph,Yes,1261,1039,Partial
+P0229,Jessica Hansen,79,F,High,3/21/2025,3/26/2025,Heart Disease,28080,1,East Michelle,No,11522,16558,Partial
+P0242,Jose Thornton,12,F,High,3/29/2025,4/17/2025,Asthma,28249,1,New Stevebury,No,3767,24482,Partial
+P0247,Carlos Morton,4,M,High,3/13/2025,3/18/2025,"Fracture, Diabetes, Diabetes",21294,1,West Charles,No,18334,2960,Partial
+P0250,Michael Beck,60,M,High,4/21/2025,4/23/2025,Diabetes,18397,1,Dorseyport,No,17359,1038,Partial
+P0251,Michelle Robinson,4,M,High,3/19/2025,4/14/2025,"Asthma, Hypertension, Heart Disease",27987,1,North Samanthaville,No,12178,15809,Partial
+P0270,Barry Hobbs,50,F,High,3/15/2025,4/23/2025,"Fracture, Fracture, Asthma",18410,1,Philipview,No,17874,536,Partial
+P0271,Joseph Rivera,25,M,High,2/26/2025,4/11/2025,"Heart Disease, Heart Disease, Hypertension",16894,1,East Peter,No,12402,4492,Partial
+P0274,David Jackson,72,F,High,5/13/2025,5/13/2025,Heart Disease,4256,1,North Tamaraview,No,647,3609,Partial
+P0278,Rebecca Kramer,2,F,High,4/24/2025,4/27/2025,"Heart Disease, Hypertension",11801,1,Bradberg,No,6598,5203,Partial
+P0282,Jesse Terrell,63,F,High,3/19/2025,4/11/2025,"Hypertension, Diabetes, Hypertension",564,1,Conleyville,No,459,105,Partial
+P0285,Tracy Rocha,46,F,High,3/16/2025,3/21/2025,"Hypertension, Cancer",2956,1,Clarkburgh,No,1607,1349,Partial
+P0288,Angela Vargas,46,F,High,2/23/2025,3/17/2025,Cancer,20354,1,Duncanport,No,4487,15867,Partial
+P0289,Devin Mason,8,M,High,4/15/2025,4/26/2025,"Diabetes, Fracture",22706,1,Carlosshire,No,753,21953,Partial
+P0294,Heather Johnston,57,F,High,4/14/2025,4/20/2025,,26950,1,East Makaylaton,Yes,19858,7092,Partial
+P0296,Kenneth Davis,6,M,High,2/13/2025,3/5/2025,Asthma,19985,1,Port Pamelatown,Yes,10440,9545,Partial
+P0304,Deborah Barajas,15,M,High,4/10/2025,5/11/2025,"Diabetes, Heart Disease, Hypertension",6603,1,Davisbury,Yes,1403,5200,Partial
+P0309,Emily Miller,64,M,High,4/4/2025,5/2/2025,,26256,1,Port Manuelport,Yes,10575,15681,Partial
+P0319,Jack Walker,77,M,High,5/9/2025,5/12/2025,"Cancer, Asthma, Cancer",9790,1,Floresmouth,No,5100,4690,Partial
+P0329,Jermaine Williams,22,F,High,4/3/2025,5/10/2025,,12998,1,New Tinaville,No,10566,2432,Partial
+P0337,Rebecca Stephens,25,M,High,4/22/2025,5/13/2025,"Cancer, Cancer",25752,1,New Ruthland,No,2188,23564,Partial
+P0350,Darlene Morgan,83,M,High,3/10/2025,4/22/2025,Asthma,29146,1,Shepardborough,Yes,22283,6863,Partial
+P0356,Denise Rosales,11,F,High,4/17/2025,4/27/2025,"Heart Disease, Cancer, Fracture",6931,1,Cooperton,Yes,2290,4641,Partial
+P0359,Jeffrey Miller,68,M,High,4/5/2025,4/28/2025,,10691,1,Port Jacobfort,Yes,1485,9206,Partial
+P0360,Ashley West,40,F,High,3/26/2025,4/22/2025,"Cancer, Cancer, Heart Disease",11848,1,South Brian,Yes,10740,1108,Partial
+P0364,Kimberly Taylor,8,M,High,4/7/2025,5/12/2025,,7418,1,Edwardside,No,7136,282,Partial
+P0378,Ashlee Smith,87,F,High,4/30/2025,4/30/2025,"Heart Disease, Hypertension, Hypertension",6622,1,Lamland,No,2899,3723,Partial
+P0379,Thomas Mason,3,F,High,2/26/2025,3/21/2025,"Diabetes, Diabetes",6118,1,West Donaldbury,No,5256,862,Partial
+P0384,Kevin Johnson,46,M,High,5/6/2025,5/6/2025,"Fracture, Diabetes, Cancer",21040,1,Torresside,Yes,3776,17264,Partial
+P0391,Jeffrey Blake,60,M,High,4/4/2025,4/16/2025,"Heart Disease, Diabetes",28152,1,New Claytonport,No,20113,8039,Partial
+P0392,Alexa Nelson,14,F,High,3/18/2025,4/23/2025,Diabetes,28334,1,South Misty,No,1620,26714,Partial
+P0398,Mr. Ryan Ramsey,19,M,High,3/30/2025,4/3/2025,Diabetes,14260,1,Mcdowellfort,Yes,8776,5484,Partial
+P0399,Lance Snyder,44,F,High,2/19/2025,3/31/2025,"Cancer, Heart Disease, Hypertension",2979,1,Lake Ashleyhaven,Yes,2010,969,Partial
+P0401,Robert Davenport,29,M,High,4/6/2025,4/29/2025,,19416,1,Morrishaven,Yes,15470,3946,Partial
+P0405,David Castro,6,F,High,4/30/2025,5/11/2025,,16876,1,Billyfurt,No,3444,13432,Partial
+P0418,Tracy Simmons,23,M,High,2/21/2025,3/4/2025,,12047,1,North Sandy,No,5299,6748,Partial
+P0433,Michael Williams,2,M,High,4/29/2025,5/3/2025,"Heart Disease, Cancer",19406,1,Port Margaretshire,Yes,1616,17790,Partial
+P0434,Mr. Christopher Parrish DVM,15,F,High,4/27/2025,4/30/2025,Asthma,12478,1,North James,Yes,4437,8041,Partial
+P0442,Jacob Rivera,73,M,High,4/3/2025,4/15/2025,,373,1,Coxhaven,No,321,52,Partial
+P0457,Thomas Johnson,15,M,High,5/1/2025,5/1/2025,Fracture,9063,1,Annetteside,Yes,4811,4252,Partial
+P0467,Molly Ball,83,F,High,3/16/2025,4/30/2025,"Diabetes, Hypertension",9277,1,Port Marymouth,No,2592,6685,Partial
+P0468,James May,12,F,High,3/8/2025,5/2/2025,,1189,1,Dawnview,No,424,765,Partial
+P0479,Susan Murphy,1,M,High,2/20/2025,4/3/2025,,27121,1,North Nicholasfort,Yes,23650,3471,Partial
+P0484,Travis English,89,F,High,4/14/2025,4/25/2025,"Fracture, Cancer, Heart Disease",7575,1,North Aprilberg,No,5388,2187,Partial
+P0489,Robert Fowler,57,M,High,5/5/2025,5/11/2025,,11031,1,New Theresaberg,Yes,10227,804,Partial
+P0502,Mr. Taylor Smith,17,M,High,4/9/2025,4/10/2025,Diabetes,13012,1,West Danielport,No,4765,8247,Partial
+P0509,Ian Jacobs,47,M,High,5/6/2025,5/12/2025,"Heart Disease, Asthma",2759,1,Kellyfurt,No,1401,1358,Partial
+P0517,Elaine Williams,78,M,High,3/30/2025,4/13/2025,"Cancer, Diabetes",16516,1,Stephaniebury,Yes,8791,7725,Partial
+P0518,Ronald Carter,69,M,High,3/11/2025,3/26/2025,,9857,1,Allisonville,No,9315,542,Partial
+P0542,Lisa Sutton,72,M,High,3/19/2025,3/28/2025,,10854,1,East Joan,No,683,10171,Partial
+P0550,Emma Nichols,90,F,High,4/7/2025,4/27/2025,"Cancer, Heart Disease, Heart Disease",20765,1,West Catherine,No,3596,17169,Partial
+P0558,Patrick Nelson,44,M,High,4/22/2025,4/27/2025,"Hypertension, Diabetes",261,1,Zhangview,No,170,91,Partial
+P0564,Michael Wilson,61,M,High,2/17/2025,3/28/2025,"Hypertension, Diabetes, Cancer",21380,1,Keithmouth,No,10394,10986,Partial
+P0569,Tamara Carter,30,M,High,5/10/2025,5/11/2025,"Diabetes, Fracture",23814,1,Port Lisaport,Yes,23535,279,Partial
+P0577,James Gordon,48,F,High,4/10/2025,5/8/2025,,12890,1,Donaldchester,No,10819,2071,Partial
+P0583,Katie Daugherty,50,F,High,4/17/2025,4/24/2025,"Asthma, Asthma, Cancer",20834,1,North Brian,Yes,4858,15976,Partial
+P0586,Misty Thomas,90,M,High,3/22/2025,3/29/2025,"Diabetes, Asthma",19722,1,Lake Emily,No,12795,6927,Partial
+P0590,Jesse Hanson,67,F,High,4/4/2025,4/30/2025,,13503,1,Sarafort,Yes,11383,2120,Partial
+P0602,Samuel Davila,65,M,High,3/6/2025,4/21/2025,"Cancer, Cancer",8838,1,East Douglashaven,No,7558,1280,Partial
+P0609,Allison Fisher,85,F,High,4/26/2025,5/8/2025,Asthma,4933,1,Port Benjamin,No,1046,3887,Partial
+P0612,William Bailey,56,M,High,2/22/2025,3/8/2025,Diabetes,8292,1,Tonytown,No,7845,447,Partial
+P0613,Candace Clark,48,F,High,5/1/2025,5/3/2025,,11158,1,Alexanderton,No,5891,5267,Partial
+P0616,Rebecca Patton,58,F,High,3/16/2025,4/6/2025,"Hypertension, Hypertension, Heart Disease",16768,1,New Michael,Yes,14480,2288,Partial
+P0621,Susan Holloway,16,F,High,3/16/2025,4/30/2025,,18052,1,Mullinsfurt,Yes,1713,16339,Partial
+P0641,Julian Anderson,13,F,High,3/24/2025,5/2/2025,Fracture,1999,1,Dunnmouth,Yes,1832,167,Partial
+P0646,Brian Hester PhD,13,M,High,3/21/2025,4/26/2025,"Heart Disease, Diabetes",5882,1,Port Peterland,No,3711,2171,Partial
+P0647,Kathleen Roberson,59,M,High,2/18/2025,5/1/2025,"Heart Disease, Diabetes, Cancer",27486,1,Patrickport,Yes,6597,20889,Partial
+P0654,Ian Evans,10,M,High,5/10/2025,5/10/2025,Asthma,19698,1,Bradfordfort,No,18985,713,Partial
+P0657,Jeremy Durham,70,F,High,4/11/2025,4/30/2025,Hypertension,2713,1,Port Timothy,Yes,2680,33,Partial
+P0658,Samantha Miller,51,F,High,4/8/2025,5/7/2025,"Asthma, Fracture, Heart Disease",21867,1,Melissachester,No,9605,12262,Partial
+P0663,Brian Alexander,66,F,High,4/30/2025,5/8/2025,"Asthma, Heart Disease",28851,1,Fernandoport,No,16712,12139,Partial
+P0664,Jessica Le,55,F,High,5/9/2025,5/10/2025,Hypertension,16869,1,Ruizport,No,14781,2088,Partial
+P0668,Patrick Evans,79,F,High,2/28/2025,3/22/2025,"Fracture, Cancer",18783,1,Jonathanshire,No,3250,15533,Partial
+P0672,Edwin Farrell,67,M,High,3/15/2025,3/16/2025,,4250,1,New April,Yes,2865,1385,Partial
+P0673,Shane Martinez,50,M,High,4/14/2025,4/20/2025,Cancer,26673,1,Clarkhaven,Yes,18879,7794,Partial
+P0674,Rose Taylor,34,M,High,4/2/2025,4/5/2025,"Cancer, Diabetes",3512,1,Port Daltonberg,No,1983,1529,Partial
+P0676,Terri Shannon,3,F,High,4/18/2025,4/18/2025,Hypertension,10848,1,Webermouth,Yes,6557,4291,Partial
+P0680,Patricia Ramirez,79,M,High,4/17/2025,4/30/2025,,11344,1,Jonesfurt,No,129,11215,Partial
+P0684,Becky Chang,16,F,High,2/25/2025,5/13/2025,"Heart Disease, Heart Disease, Hypertension",26638,1,Margaretberg,Yes,23489,3149,Partial
+P0691,Kelly Martin,15,F,High,4/2/2025,5/2/2025,,28861,1,West Markburgh,Yes,18067,10794,Partial
+P0698,Jason Barnes,40,F,High,5/3/2025,5/9/2025,,5977,1,North Elizabethland,Yes,3455,2522,Partial
+P0701,Monica Baker,71,F,High,3/2/2025,4/23/2025,Hypertension,16818,1,Davidchester,No,4291,12527,Partial
+P0709,Matthew Pearson,13,M,High,3/24/2025,3/25/2025,Asthma,9878,1,Lake William,No,896,8982,Partial
+P0710,Richard Lynch,76,M,High,3/23/2025,5/9/2025,Diabetes,2175,1,Jeremyborough,No,638,1537,Partial
+P0715,Jacqueline Skinner,81,M,High,4/12/2025,4/12/2025,"Hypertension, Cancer, Cancer",13877,1,Sanchezville,Yes,6622,7255,Partial
+P0731,David Jones,42,M,High,4/23/2025,5/13/2025,"Asthma, Diabetes",25004,1,Oliviachester,No,17628,7376,Partial
+P0744,Tony Burnett,73,F,High,4/15/2025,5/8/2025,"Heart Disease, Cancer, Heart Disease",18575,1,South Alexandramouth,No,3428,15147,Partial
+P0750,Carolyn Bailey,5,M,High,4/17/2025,5/9/2025,"Cancer, Fracture",17978,1,Christopherhaven,No,12475,5503,Partial
+P0751,Stephen Allen,7,F,High,3/10/2025,4/19/2025,,9035,1,Jamesville,No,7315,1720,Partial
+P0752,Michael Mclaughlin,47,M,High,5/6/2025,5/12/2025,,9901,1,South Kevinchester,No,8381,1520,Partial
+P0753,Mark Russell,89,F,High,2/23/2025,3/3/2025,"Heart Disease, Asthma, Diabetes",8846,1,South Regina,Yes,173,8673,Partial
+P0759,Timothy Jackson,23,F,High,2/19/2025,2/22/2025,Diabetes,15322,1,Meganchester,No,7534,7788,Partial
+P0760,Brian Brown,88,F,High,2/15/2025,2/19/2025,Diabetes,23730,1,North Waynebury,No,3038,20692,Partial
+P0771,James Lang,23,F,High,4/21/2025,5/1/2025,"Hypertension, Diabetes, Cancer",29786,1,Chentown,No,24541,5245,Partial
+P0777,Paul Jones,40,F,High,5/8/2025,5/9/2025,Fracture,9674,1,South Donald,No,2615,7059,Partial
+P0780,Melissa Hill,56,M,High,3/16/2025,3/22/2025,Cancer,16775,1,New Davidport,Yes,7610,9165,Partial
+P0788,Mr. Steven Ball,29,F,High,3/5/2025,4/20/2025,Asthma,20180,1,Laurenborough,Yes,11230,8950,Partial
+P0809,Charles Jones,54,M,High,4/13/2025,4/30/2025,Diabetes,24282,1,Port Davidshire,Yes,15929,8353,Partial
+P0817,Renee Perez,20,M,High,3/2/2025,5/1/2025,"Diabetes, Asthma",17860,1,North Isaiah,Yes,6710,11150,Partial
+P0821,Terri Shelton,3,M,High,4/3/2025,5/2/2025,Cancer,13793,1,South Stacy,No,3526,10267,Partial
+P0825,Matthew Sexton,27,M,High,3/17/2025,3/25/2025,"Heart Disease, Heart Disease",29632,1,Graymouth,No,21928,7704,Partial
+P0828,Gerald Rios,32,M,High,5/10/2025,5/10/2025,,2791,1,Perezport,No,1807,984,Partial
+P0838,Bryce Hopkins,54,F,High,4/18/2025,4/25/2025,"Cancer, Hypertension",14886,1,Hernandezmouth,Yes,2987,11899,Partial
+P0840,Molly Rodgers,63,F,High,3/29/2025,5/11/2025,"Asthma, Hypertension",19541,1,Jacobsonmouth,Yes,3106,16435,Partial
+P0845,Richard Taylor,77,M,High,3/2/2025,5/2/2025,"Diabetes, Fracture, Diabetes",21014,1,Diazburgh,No,10290,10724,Partial
+P0848,James Taylor,88,M,High,3/31/2025,4/1/2025,"Fracture, Hypertension",7428,1,Williamsshire,Yes,2577,4851,Partial
+P0853,Allen Thomas,30,F,High,3/17/2025,4/11/2025,"Cancer, Diabetes, Fracture",24597,1,New Charles,No,15846,8751,Partial
+P0859,Nicholas Cowan,83,F,High,4/4/2025,5/4/2025,"Asthma, Fracture",7464,1,Perryland,No,5449,2015,Partial
+P0864,Sonya Bradshaw,33,F,High,4/12/2025,4/13/2025,"Asthma, Heart Disease",16078,1,North Barbara,No,161,15917,Partial
+P0872,Jose Carter,58,F,High,3/3/2025,4/11/2025,Fracture,4171,1,Gomezton,Yes,3918,253,Partial
+P0875,Mr. Samuel Cohen,51,F,High,2/14/2025,3/8/2025,,11394,1,Deleonview,Yes,8828,2566,Partial
+P0878,Melissa Barnes,50,F,High,4/28/2025,5/5/2025,Asthma,29287,1,Nicoleville,No,3584,25703,Partial
+P0886,Justin Nelson,83,M,High,4/23/2025,4/25/2025,"Fracture, Diabetes, Cancer",15482,1,North Cody,Yes,9900,5582,Partial
+P0893,Thomas Johnson,77,M,High,4/18/2025,4/22/2025,Fracture,20712,1,East Kevinstad,No,2743,17969,Partial
+P0896,Lee Patel,73,M,High,4/5/2025,4/22/2025,"Fracture, Hypertension",18497,1,New Dawn,No,9715,8782,Partial
+P0899,Peggy Curtis,37,M,High,5/8/2025,5/9/2025,,8178,1,Jamesfurt,Yes,4534,3644,Partial
+P0906,Sean Lewis,16,M,High,4/10/2025,4/24/2025,"Fracture, Asthma, Heart Disease",4954,1,West Christina,Yes,3126,1828,Partial
+P0909,Marie Thomas,16,M,High,5/5/2025,5/7/2025,"Diabetes, Asthma",11257,1,East Jacob,No,10866,391,Partial
+P0910,Alexandra Gomez,75,F,High,3/3/2025,3/16/2025,,12789,1,Carlsonburgh,Yes,501,12288,Partial
+P0916,Kenneth Parker,1,M,High,3/6/2025,4/18/2025,"Heart Disease, Asthma, Asthma",21966,1,Karifurt,Yes,19572,2394,Partial
+P0930,Brendan Waller,87,M,High,4/23/2025,5/6/2025,"Heart Disease, Cancer",12050,1,Port Barbara,No,3044,9006,Partial
+P0940,April Sparks,88,F,High,5/1/2025,5/8/2025,Fracture,22092,1,Jameshaven,Yes,22011,81,Partial
+P0941,Justin Fletcher,35,M,High,2/26/2025,3/10/2025,,28618,1,Leonchester,No,5000,23618,Partial
+P0950,Gregory Blake,19,F,High,3/27/2025,5/5/2025,"Cancer, Fracture",19264,1,Ronaldstad,No,7944,11320,Partial
+P0951,Joanne Miles,43,M,High,3/14/2025,4/30/2025,Hypertension,16829,1,Lake Kathrynview,Yes,219,16610,Partial
+P0965,Jackson King,6,M,High,2/26/2025,5/2/2025,,9779,1,New Stacy,Yes,76,9703,Partial
+P0970,Lisa Scott,47,F,High,2/19/2025,3/14/2025,"Hypertension, Cancer",7202,1,North Jimmy,Yes,2935,4267,Partial
+P0975,Troy Davidson,54,M,High,2/21/2025,4/2/2025,"Asthma, Fracture, Fracture",20965,1,North Jacquelinetown,No,4034,16931,Partial
+P0982,Lawrence Diaz,53,M,High,3/27/2025,4/24/2025,"Diabetes, Asthma",12299,1,Jonesfort,No,2995,9304,Partial
+P0985,Sarah Wilson,24,F,High,2/24/2025,5/13/2025,"Heart Disease, Hypertension, Cancer",28012,1,North Ronaldbury,No,6456,21556,Partial
+P0987,Lisa Mccall,9,M,High,5/8/2025,5/9/2025,"Fracture, Fracture, Fracture",6120,1,South Michaelton,No,145,5975,Partial
+P0001,Melanie Le,19,M,High,2/25/2025,,,0,0,New Marilynview,No,0,0,Pending
+P0003,Phyllis Long,5,F,Low,5/1/2025,,,0,0,Marthafort,Yes,0,0,Pending
+P0004,Alyssa Hayes,44,M,Medium,5/2/2025,,Diabetes,0,0,Jessicafort,Yes,0,0,Pending
+P0005,Ryan Jones,79,M,Low,3/23/2025,,"Asthma, Asthma",0,0,New Daniel,Yes,0,0,Pending
+P0010,Philip Rogers,25,M,High,3/16/2025,,"Heart Disease, Heart Disease",0,0,Tamaraview,Yes,0,0,Pending
+P0011,Dale Scott,51,F,High,3/15/2025,,"Fracture, Diabetes, Hypertension",0,0,East Caitlinburgh,Yes,0,0,Pending
+P0014,Cynthia Jordan,19,F,High,2/18/2025,,"Hypertension, Diabetes",0,0,Matthewport,No,0,0,Pending
+P0015,Mr. Charles Hernandez DVM,25,F,Medium,3/26/2025,,"Diabetes, Hypertension",0,0,South Jameston,Yes,0,0,Pending
+P0016,Cameron Stevenson,26,M,Low,4/21/2025,,"Cancer, Diabetes, Fracture",0,0,South Tracyborough,No,0,0,Pending
+P0017,Edward Mullen,10,F,Medium,4/6/2025,,,0,0,East Amanda,Yes,0,0,Pending
+P0018,Dalton Hunt,16,F,Low,4/13/2025,,,0,0,Sparksmouth,Yes,0,0,Pending
+P0019,Rachel Porter,66,F,Low,2/28/2025,,"Asthma, Cancer, Fracture",0,0,Alyssafort,Yes,0,0,Pending
+P0020,Scott Davidson,61,M,Low,3/5/2025,,,0,0,Howardmouth,No,0,0,Pending
+P0022,Jerry Valentine,35,F,Low,5/4/2025,,Heart Disease,0,0,East James,Yes,0,0,Pending
+P0023,Ashley Campbell,32,M,High,3/23/2025,,Diabetes,0,0,Lake Seanhaven,Yes,0,0,Pending
+P0024,Carolyn Matthews,9,M,Medium,3/18/2025,,,0,0,Shawnhaven,Yes,0,0,Pending
+P0025,Mrs. Amanda Young MD,76,F,High,3/20/2025,,"Heart Disease, Diabetes, Fracture",0,0,New Catherineburgh,No,0,0,Pending
+P0026,Shannon Mann DVM,59,M,Low,2/13/2025,,,0,0,Lake Michelleberg,No,0,0,Pending
+P0028,Margaret Moran,78,F,Medium,2/13/2025,,"Hypertension, Hypertension, Asthma",0,0,Port Justinville,Yes,0,0,Pending
+P0030,Julie Weber,73,F,Low,3/29/2025,,"Diabetes, Asthma, Cancer",0,0,Courtneymouth,No,0,0,Pending
+P0033,Anna Ball,11,M,Medium,4/18/2025,,,0,0,New Robert,No,0,0,Pending
+P0035,Kelli Moore,79,F,Low,5/13/2025,,,0,0,New Katherineville,No,0,0,Pending
+P0039,Nicolas Johns,76,M,High,5/10/2025,,Cancer,0,0,Thompsonshire,Yes,0,0,Pending
+P0041,Jorge Berger,87,F,High,5/8/2025,,,0,0,East Brettfurt,No,0,0,Pending
+P0042,Steven Ross,1,M,High,5/2/2025,,,0,0,South Candicestad,Yes,0,0,Pending
+P0043,Mr. Jason Waters,10,F,High,4/28/2025,,"Hypertension, Fracture",0,0,Dawsonstad,Yes,0,0,Pending
+P0046,Tracy Clements,38,M,High,3/9/2025,,Diabetes,0,0,Allenfurt,No,0,0,Pending
+P0048,Stephanie Snow,86,M,Low,3/20/2025,,,0,0,Stevenstad,No,0,0,Pending
+P0050,Brent Ingram,75,M,Medium,5/12/2025,,"Asthma, Hypertension",0,0,Lake Johntown,Yes,0,0,Pending
+P0051,Robert Smith,49,M,High,3/30/2025,,"Diabetes, Hypertension, Diabetes",0,0,Oliverport,Yes,0,0,Pending
+P0053,Alvin Deleon,53,M,Medium,4/1/2025,,Asthma,0,0,Justinborough,Yes,0,0,Pending
+P0054,Sarah Conway,53,F,Low,3/18/2025,,,0,0,Travisberg,Yes,0,0,Pending
+P0055,Grace Clark,15,M,Low,3/20/2025,,,0,0,North Steven,Yes,0,0,Pending
+P0056,Ashley Brown,50,F,Low,5/2/2025,,Fracture,0,0,South Jeremy,No,0,0,Pending
+P0057,Veronica Phillips,57,M,Medium,3/3/2025,,,0,0,East Robert,No,0,0,Pending
+P0058,Nicholas Wagner,24,M,Low,3/9/2025,,"Cancer, Diabetes",0,0,New Lisahaven,No,0,0,Pending
+P0059,Rachel Rhodes,65,M,Medium,3/12/2025,,"Fracture, Diabetes",0,0,Port Melissa,Yes,0,0,Pending
+P0062,Holly Galloway,83,F,Medium,3/18/2025,,"Cancer, Asthma",0,0,Smithville,Yes,0,0,Pending
+P0067,Sarah Kirk,33,F,Low,4/11/2025,,Fracture,0,0,Johnstonfurt,No,0,0,Pending
+P0068,Nathaniel King,76,M,Medium,2/16/2025,,"Cancer, Cancer, Asthma",0,0,Rebeccaview,Yes,0,0,Pending
+P0071,Christine Sanford,34,F,High,4/17/2025,,"Hypertension, Cancer",0,0,West Sheriside,No,0,0,Pending
+P0072,William Melendez,44,F,High,3/20/2025,,"Cancer, Cancer, Hypertension",0,0,Walkerhaven,No,0,0,Pending
+P0073,Melanie Whitehead,63,M,Medium,2/22/2025,,"Hypertension, Cancer, Cancer",0,0,North Olivia,Yes,0,0,Pending
+P0074,Bryan Lewis,90,M,Low,5/6/2025,,,0,0,East Alex,No,0,0,Pending
+P0075,Ashley Lopez,17,M,High,4/6/2025,,"Cancer, Heart Disease",0,0,South Michaelville,Yes,0,0,Pending
+P0080,Katelyn Salazar,69,F,Medium,3/3/2025,,"Diabetes, Cancer, Diabetes",0,0,Jenniferstad,Yes,0,0,Pending
+P0081,Rick Guerrero,59,F,Medium,4/12/2025,,,0,0,Johnborough,No,0,0,Pending
+P0082,Courtney Spencer,72,M,Low,2/13/2025,,"Diabetes, Heart Disease",0,0,New Matthewbury,No,0,0,Pending
+P0083,Lisa Vargas,5,M,High,4/13/2025,,,0,0,Robinsonshire,No,0,0,Pending
+P0084,James Lee,73,F,Low,2/26/2025,,,0,0,New Destiny,No,0,0,Pending
+P0086,Jennifer Wolf,82,M,High,2/28/2025,,,0,0,Johnfurt,Yes,0,0,Pending
+P0090,Adrian Green,27,F,Low,3/23/2025,,Hypertension,0,0,West Brooke,No,0,0,Pending
+P0094,Matthew Day,72,F,Low,2/14/2025,,,0,0,Christinamouth,Yes,0,0,Pending
+P0096,Mary Berger,29,F,High,3/4/2025,,"Cancer, Diabetes, Heart Disease",0,0,North Ashleyton,Yes,0,0,Pending
+P0100,Victor Dyer,68,M,Low,4/6/2025,,Asthma,0,0,Lindseystad,Yes,0,0,Pending
+P0101,Nicole Townsend,2,M,High,4/14/2025,,,0,0,Port Jenniferburgh,Yes,0,0,Pending
+P0103,Kristen Chambers,15,M,High,4/30/2025,,"Hypertension, Heart Disease, Diabetes",0,0,Port Angelicachester,Yes,0,0,Pending
+P0109,Benjamin Hernandez,3,M,Low,3/24/2025,,Cancer,0,0,Tammyside,Yes,0,0,Pending
+P0113,Amanda Bradley,55,M,High,4/20/2025,,"Heart Disease, Hypertension",0,0,Maxwellton,No,0,0,Pending
+P0116,Antonio Schwartz,28,M,Low,3/10/2025,,"Heart Disease, Asthma, Diabetes",0,0,West Davidbury,Yes,0,0,Pending
+P0118,Joshua Davenport,41,F,High,4/11/2025,,"Diabetes, Diabetes, Fracture",0,0,Lake Rebekah,Yes,0,0,Pending
+P0119,Scott Donaldson,40,F,High,4/5/2025,,Diabetes,0,0,Stephenhaven,No,0,0,Pending
+P0122,Samantha Nelson,61,M,Low,5/2/2025,,,0,0,Langville,Yes,0,0,Pending
+P0131,Teresa Gross,6,M,Low,4/28/2025,,,0,0,Lake Ashley,Yes,0,0,Pending
+P0133,Anthony Rice,29,M,Low,2/27/2025,,"Hypertension, Asthma",0,0,Parksburgh,Yes,0,0,Pending
+P0134,Tammy Hill,53,M,Medium,3/3/2025,,"Asthma, Asthma",0,0,South Christopher,No,0,0,Pending
+P0135,Sharon Rose,78,F,Medium,4/16/2025,,,0,0,West Nicholas,Yes,0,0,Pending
+P0136,James King,6,F,High,3/21/2025,,"Hypertension, Fracture",0,0,Pinedaview,Yes,0,0,Pending
+P0139,Keith Coleman,43,F,High,3/22/2025,,"Heart Disease, Asthma",0,0,Saraland,Yes,0,0,Pending
+P0142,Madison Davis,47,M,Low,4/10/2025,,,0,0,Lambertstad,Yes,0,0,Pending
+P0143,Kathleen Price,23,M,Low,4/17/2025,,Heart Disease,0,0,East Julieberg,Yes,0,0,Pending
+P0144,Ryan Anderson,1,M,Medium,4/7/2025,,"Cancer, Asthma, Cancer",0,0,Fletcherburgh,Yes,0,0,Pending
+P0146,Michael Vega,43,M,High,4/5/2025,,"Cancer, Cancer, Heart Disease",0,0,West Stephanie,Yes,0,0,Pending
+P0150,Matthew Blevins,79,F,Low,4/7/2025,,"Asthma, Diabetes",0,0,Gaymouth,No,0,0,Pending
+P0153,Laura Harris,84,M,High,3/29/2025,,,0,0,North Juanhaven,Yes,0,0,Pending
+P0154,Amanda Huerta,62,M,Medium,2/28/2025,,"Asthma, Heart Disease, Hypertension",0,0,New Melody,Yes,0,0,Pending
+P0155,Dakota Phelps,8,M,Medium,4/20/2025,,"Fracture, Asthma",0,0,Stevenbury,No,0,0,Pending
+P0157,Nicole Blake,44,M,High,2/15/2025,,"Hypertension, Cancer",0,0,Floresport,No,0,0,Pending
+P0158,Kristine Black,73,F,Medium,4/6/2025,,,0,0,Williamsport,No,0,0,Pending
+P0160,Michael King,26,F,High,5/5/2025,,"Heart Disease, Asthma, Cancer",0,0,Romerofort,No,0,0,Pending
+P0162,Tamara Nguyen,21,M,High,4/29/2025,,"Fracture, Asthma, Cancer",0,0,North Christopher,Yes,0,0,Pending
+P0163,Cory Allen,11,M,Low,3/1/2025,,Diabetes,0,0,Lake Jesus,Yes,0,0,Pending
+P0164,Colleen Norton,59,M,High,3/6/2025,,"Heart Disease, Diabetes, Fracture",0,0,Karenshire,Yes,0,0,Pending
+P0165,Chris Jones DVM,3,M,Low,5/1/2025,,,0,0,Lake Anthonyborough,Yes,0,0,Pending
+P0166,Chad Mccall,55,F,Low,5/12/2025,,"Fracture, Diabetes",0,0,Lake Helenbury,No,0,0,Pending
+P0169,Craig Stevenson,10,F,High,4/7/2025,,Fracture,0,0,North James,No,0,0,Pending
+P0172,Guy Mitchell,86,M,Low,3/2/2025,,Hypertension,0,0,Jenniferview,No,0,0,Pending
+P0183,Rachel Miller,45,M,High,5/2/2025,,"Asthma, Heart Disease, Asthma",0,0,Saundersshire,No,0,0,Pending
+P0186,Kellie Dunn,13,F,Low,3/23/2025,,"Cancer, Heart Disease, Heart Disease",0,0,Tylerside,No,0,0,Pending
+P0188,Alicia Silva,82,M,Medium,4/22/2025,,"Diabetes, Asthma, Hypertension",0,0,Candacemouth,Yes,0,0,Pending
+P0189,Susan Mccoy,32,M,Medium,3/6/2025,,Diabetes,0,0,Jeffreyside,No,0,0,Pending
+P0194,Amanda Campbell,37,F,High,2/16/2025,,Asthma,0,0,Port Kevin,No,0,0,Pending
+P0197,Jill Williams,22,F,Low,3/2/2025,,"Fracture, Hypertension, Cancer",0,0,Sheilamouth,No,0,0,Pending
+P0198,Francisco Bishop,13,F,Low,2/16/2025,,"Hypertension, Heart Disease",0,0,Thorntonstad,Yes,0,0,Pending
+P0199,Thomas Silva,31,M,Low,3/4/2025,,"Fracture, Diabetes, Fracture",0,0,West Justinmouth,Yes,0,0,Pending
+P0203,Andrew Raymond,87,M,Medium,5/13/2025,,,0,0,Lake Bethany,No,0,0,Pending
+P0205,Jason Johnson,83,F,Low,2/25/2025,,,0,0,Davidside,No,0,0,Pending
+P0206,Sandra Kim,85,M,Low,4/27/2025,,,0,0,South Jay,No,0,0,Pending
+P0208,Abigail Johnson,86,F,Medium,4/9/2025,,"Hypertension, Hypertension",0,0,New Suzanneberg,Yes,0,0,Pending
+P0210,William Cooper,34,M,Low,2/22/2025,,Fracture,0,0,South Natalieborough,No,0,0,Pending
+P0212,Joe Hammond,35,M,High,4/6/2025,,,0,0,Jackieview,Yes,0,0,Pending
+P0214,Nancy Patel,52,M,Medium,2/22/2025,,,0,0,Griffithville,Yes,0,0,Pending
+P0215,Jennifer Spencer,41,M,Medium,3/19/2025,,Heart Disease,0,0,Gibbsport,Yes,0,0,Pending
+P0218,Amanda Moore,47,F,High,3/8/2025,,"Cancer, Hypertension",0,0,East Christine,No,0,0,Pending
+P0219,Shannon Valentine,66,F,Medium,3/10/2025,,,0,0,Port Nicholasmouth,Yes,0,0,Pending
+P0220,Blake Orozco,69,M,Low,3/30/2025,,,0,0,Newtonland,No,0,0,Pending
+P0223,Philip Farrell,90,F,Medium,3/7/2025,,Heart Disease,0,0,Martinezborough,Yes,0,0,Pending
+P0224,Kevin Scott,2,F,Medium,3/30/2025,,"Diabetes, Hypertension, Diabetes",0,0,East Sean,Yes,0,0,Pending
+P0226,Amanda Holloway,89,F,Low,3/29/2025,,Cancer,0,0,Michaelbury,Yes,0,0,Pending
+P0232,Alexander Morales,20,M,Medium,4/3/2025,,"Hypertension, Asthma, Asthma",0,0,West Kevinton,No,0,0,Pending
+P0233,Jimmy Lindsey,84,F,High,5/12/2025,,"Heart Disease, Hypertension",0,0,Kristinaland,Yes,0,0,Pending
+P0235,Julia Rose,27,F,Medium,3/23/2025,,"Hypertension, Cancer, Diabetes",0,0,New Dean,Yes,0,0,Pending
+P0237,David Ortiz,7,F,Medium,4/12/2025,,"Diabetes, Hypertension",0,0,Lawrencefurt,Yes,0,0,Pending
+P0239,Jessica Warren,51,F,Low,3/6/2025,,Cancer,0,0,Williston,Yes,0,0,Pending
+P0241,Stephanie Berry,7,F,Low,4/30/2025,,"Fracture, Asthma",0,0,Diazburgh,Yes,0,0,Pending
+P0244,Amber Wood,30,F,High,5/10/2025,,,0,0,Christinestad,No,0,0,Pending
+P0245,Dustin Hanna,57,M,High,4/28/2025,,"Asthma, Cancer",0,0,Alexanderville,No,0,0,Pending
+P0252,Claire Gonzales,56,F,Low,5/9/2025,,"Asthma, Asthma",0,0,Port Randallburgh,Yes,0,0,Pending
+P0253,Glenda Merritt,24,M,Low,4/26/2025,,Fracture,0,0,Gibsonstad,No,0,0,Pending
+P0254,Jacob Harper,89,M,High,3/26/2025,,"Diabetes, Asthma, Cancer",0,0,Granttown,Yes,0,0,Pending
+P0256,Matthew Duncan,73,M,High,3/24/2025,,Cancer,0,0,New Amber,No,0,0,Pending
+P0258,Jonathan Mendoza,11,F,Low,4/24/2025,,Diabetes,0,0,Wilsonhaven,No,0,0,Pending
+P0259,Natalie Frey,34,F,Medium,5/7/2025,,"Fracture, Hypertension",0,0,Tarachester,No,0,0,Pending
+P0260,Mr. Bryan Sanchez,24,F,Low,3/27/2025,,"Cancer, Cancer",0,0,North Judyview,Yes,0,0,Pending
+P0263,Kurt Johnson,84,F,High,3/30/2025,,"Heart Disease, Heart Disease",0,0,Conniechester,No,0,0,Pending
+P0266,Nicole Andrews,73,F,High,3/21/2025,,,0,0,South Martinport,Yes,0,0,Pending
+P0267,Mary Porter,63,F,Low,4/22/2025,,,0,0,Port Brian,Yes,0,0,Pending
+P0272,Joseph Lucas,80,M,Medium,3/23/2025,,Fracture,0,0,South Larry,Yes,0,0,Pending
+P0275,Lawrence Hernandez,11,M,Medium,2/14/2025,,Fracture,0,0,East Whitneyburgh,Yes,0,0,Pending
+P0276,Gloria Stein,52,F,Low,3/1/2025,,Asthma,0,0,Port Jose,No,0,0,Pending
+P0279,Kimberly Perry,27,F,Low,4/7/2025,,"Diabetes, Asthma, Asthma",0,0,Burnetthaven,No,0,0,Pending
+P0280,James Rivera,68,M,Low,5/8/2025,,,0,0,Port Joshua,No,0,0,Pending
+P0283,Anthony Johnson,38,F,Low,3/17/2025,,Asthma,0,0,Lake Suzanneburgh,No,0,0,Pending
+P0284,Michael Brown,56,F,Low,5/2/2025,,,0,0,Byrdshire,No,0,0,Pending
+P0287,Kayla Dunlap,39,F,Low,3/14/2025,,Hypertension,0,0,Scottton,No,0,0,Pending
+P0290,Vanessa Lopez,80,F,High,5/8/2025,,,0,0,South Pamside,No,0,0,Pending
+P0291,Linda Pearson,76,M,High,4/10/2025,,,0,0,South Williamshire,No,0,0,Pending
+P0292,Pamela Jones,24,M,High,2/15/2025,,"Diabetes, Fracture",0,0,Wallhaven,Yes,0,0,Pending
+P0293,Mrs. Jennifer Hardy,52,M,High,3/7/2025,,,0,0,East Patricia,No,0,0,Pending
+P0298,William Barnes,78,F,Medium,3/28/2025,,Cancer,0,0,New Christopher,Yes,0,0,Pending
+P0299,Katherine Floyd,18,F,Medium,3/14/2025,,,0,0,Fitzgeraldbury,No,0,0,Pending
+P0305,Robert Mcdaniel,64,F,Medium,4/2/2025,,"Fracture, Heart Disease",0,0,Joetown,Yes,0,0,Pending
+P0306,David Lucero,40,F,Medium,4/21/2025,,"Hypertension, Heart Disease, Heart Disease",0,0,East Kenneth,No,0,0,Pending
+P0307,Dawn Ward,19,F,Medium,3/15/2025,,Diabetes,0,0,Samanthaburgh,No,0,0,Pending
+P0308,Tracy Perkins,43,F,Low,3/8/2025,,"Diabetes, Fracture, Fracture",0,0,West Samanthastad,No,0,0,Pending
+P0310,Scott Gaines,7,M,High,3/16/2025,,,0,0,Boydtown,No,0,0,Pending
+P0311,Belinda Henry,41,F,High,5/1/2025,,Diabetes,0,0,Adamstown,No,0,0,Pending
+P0312,Kimberly Hansen,19,F,High,3/28/2025,,Asthma,0,0,Smithchester,No,0,0,Pending
+P0313,Stacey Rodriguez,60,F,Low,4/2/2025,,,0,0,North Pennytown,No,0,0,Pending
+P0314,Angela Watson,59,F,High,4/27/2025,,Hypertension,0,0,Mendozachester,No,0,0,Pending
+P0315,April Hamilton,49,M,Medium,4/30/2025,,Cancer,0,0,Heatherport,No,0,0,Pending
+P0316,Theodore Rodriguez,59,M,Medium,5/8/2025,,,0,0,Lake Christopher,Yes,0,0,Pending
+P0317,Terri Murphy,28,F,Low,4/15/2025,,"Diabetes, Cancer, Fracture",0,0,Raymondton,No,0,0,Pending
+P0320,Anthony Jenkins,50,M,Medium,2/25/2025,,Fracture,0,0,Lake Charlesborough,No,0,0,Pending
+P0321,Grant Moore,44,M,Medium,4/27/2025,,Cancer,0,0,Marissaton,No,0,0,Pending
+P0323,Jamie Scott,18,F,Low,4/25/2025,,Heart Disease,0,0,New April,No,0,0,Pending
+P0324,Kevin Turner,68,F,High,3/29/2025,,,0,0,New Jennifer,Yes,0,0,Pending
+P0325,Lisa Carter,44,F,High,4/16/2025,,,0,0,East Scott,Yes,0,0,Pending
+P0327,Lori Mason,8,M,High,3/30/2025,,Fracture,0,0,Gonzalezfort,Yes,0,0,Pending
+P0330,Joy Butler,4,M,Low,3/5/2025,,,0,0,Katherineland,Yes,0,0,Pending
+P0331,Chloe Young,13,M,High,4/2/2025,,"Heart Disease, Fracture, Cancer",0,0,Pamelashire,No,0,0,Pending
+P0332,Megan Murray,3,F,Medium,4/5/2025,,"Asthma, Asthma",0,0,Michellefort,Yes,0,0,Pending
+P0335,Jeffrey Ferrell,83,F,Medium,3/17/2025,,"Cancer, Asthma, Cancer",0,0,North Tiffany,Yes,0,0,Pending
+P0336,April Martin,74,M,Low,3/8/2025,,Diabetes,0,0,New Brianland,Yes,0,0,Pending
+P0338,Jordan Smith,2,F,High,3/6/2025,,Cancer,0,0,Oliverport,No,0,0,Pending
+P0339,Edward Leach,47,F,Medium,4/5/2025,,"Cancer, Fracture, Hypertension",0,0,New Benjamin,Yes,0,0,Pending
+P0340,Frances Griffin,4,M,Medium,4/24/2025,,"Asthma, Cancer",0,0,North Anthony,No,0,0,Pending
+P0341,Sandra Martinez,24,M,Medium,3/27/2025,,Diabetes,0,0,Lake Dawnfort,Yes,0,0,Pending
+P0342,Emily Reed,23,F,Medium,4/15/2025,,,0,0,Melodyfort,No,0,0,Pending
+P0343,Steven Hall,24,F,Low,3/1/2025,,,0,0,New Anthony,No,0,0,Pending
+P0344,Evan Hamilton,11,M,High,3/12/2025,,,0,0,West Megan,No,0,0,Pending
+P0347,Benjamin Rodriguez,17,M,Low,2/15/2025,,Fracture,0,0,Rogerston,Yes,0,0,Pending
+P0348,Joshua Porter Jr.,47,M,Medium,3/29/2025,,"Heart Disease, Fracture",0,0,Hurststad,No,0,0,Pending
+P0349,Chelsea Braun,8,M,Low,4/14/2025,,Diabetes,0,0,Lake Kathleen,No,0,0,Pending
+P0351,Ricky Sparks,37,M,High,4/21/2025,,"Fracture, Hypertension",0,0,Gonzalezhaven,Yes,0,0,Pending
+P0352,Kathleen Smith,51,F,Low,5/13/2025,,"Diabetes, Fracture",0,0,Davidstad,No,0,0,Pending
+P0353,Stephanie Brewer,81,F,Low,4/5/2025,,Heart Disease,0,0,South Loretta,Yes,0,0,Pending
+P0355,Craig Blackwell,52,M,Medium,2/19/2025,,"Fracture, Asthma, Diabetes",0,0,Michaelmouth,Yes,0,0,Pending
+P0357,Carolyn Ramirez,46,F,Low,3/5/2025,,Heart Disease,0,0,South Richardton,Yes,0,0,Pending
+P0358,Jennifer Brown,44,F,High,3/21/2025,,,0,0,Willistown,No,0,0,Pending
+P0361,Nathan Thompson,45,F,High,3/23/2025,,"Asthma, Diabetes",0,0,Stephanieville,Yes,0,0,Pending
+P0365,Denise Conway,71,F,High,5/9/2025,,"Fracture, Hypertension, Heart Disease",0,0,Crawfordhaven,Yes,0,0,Pending
+P0366,Ashley Browning,79,F,High,4/27/2025,,Cancer,0,0,North Christopher,No,0,0,Pending
+P0370,Tami Hamilton,8,M,Medium,2/13/2025,,Asthma,0,0,Gutierrezview,Yes,0,0,Pending
+P0372,Brandon Taylor,52,F,Low,5/5/2025,,"Hypertension, Cancer, Hypertension",0,0,Gordonhaven,Yes,0,0,Pending
+P0373,Timothy Thomas,18,F,Low,3/7/2025,,,0,0,New Andrew,No,0,0,Pending
+P0374,Kyle Johnson,15,M,High,2/13/2025,,"Asthma, Diabetes",0,0,Juanborough,Yes,0,0,Pending
+P0377,Brittney Cook,69,F,High,5/12/2025,,"Cancer, Diabetes",0,0,Cunninghammouth,Yes,0,0,Pending
+P0380,Crystal Collins,77,F,High,3/10/2025,,,0,0,Port Ryanmouth,No,0,0,Pending
+P0381,Ray Cruz,21,M,Low,5/7/2025,,"Hypertension, Hypertension",0,0,North Saraburgh,Yes,0,0,Pending
+P0382,Drew Meyer,32,F,Low,4/2/2025,,Diabetes,0,0,East Dustin,Yes,0,0,Pending
+P0383,Jennifer Suarez,17,F,Medium,4/3/2025,,"Heart Disease, Asthma",0,0,North Jenniferfort,Yes,0,0,Pending
+P0385,Alan Morris,44,M,Medium,2/18/2025,,Fracture,0,0,Benjamintown,No,0,0,Pending
+P0386,Hunter Powers,8,F,Medium,5/13/2025,,Cancer,0,0,Nortonland,Yes,0,0,Pending
+P0387,Sharon Ruiz,61,M,Medium,2/26/2025,,,0,0,New Lancebury,No,0,0,Pending
+P0388,Luke Spence,43,M,High,5/1/2025,,"Hypertension, Diabetes",0,0,Johnsonchester,No,0,0,Pending
+P0389,Anthony Jackson,56,F,Low,4/29/2025,,,0,0,Benjaminview,No,0,0,Pending
+P0393,Jeffrey Mcguire,62,M,Low,5/3/2025,,,0,0,East Michael,Yes,0,0,Pending
+P0394,Jeffrey Miller,2,F,Low,3/20/2025,,Fracture,0,0,East Sheriside,Yes,0,0,Pending
+P0402,Mr. Seth Weber,28,F,High,4/11/2025,,"Hypertension, Diabetes",0,0,North Desiree,No,0,0,Pending
+P0406,Denise Moon,14,F,Low,3/5/2025,,Asthma,0,0,Oconnellchester,No,0,0,Pending
+P0407,Elizabeth Andrews,77,M,High,3/24/2025,,,0,0,South Suzanneborough,Yes,0,0,Pending
+P0408,Ashley Davis,9,M,Medium,3/9/2025,,,0,0,North Lisa,Yes,0,0,Pending
+P0410,Michele Tate,14,F,Medium,5/11/2025,,"Asthma, Hypertension",0,0,Sloanshire,Yes,0,0,Pending
+P0411,Lee Pope,48,M,Low,4/13/2025,,"Fracture, Diabetes, Diabetes",0,0,South Marc,No,0,0,Pending
+P0412,Dawn Williams,22,F,Low,3/14/2025,,Diabetes,0,0,Taylorshire,No,0,0,Pending
+P0414,Jennifer Meadows,1,M,High,3/9/2025,,Diabetes,0,0,Lake Steventon,Yes,0,0,Pending
+P0415,Amanda Peterson,52,F,High,3/19/2025,,,0,0,North Laura,No,0,0,Pending
+P0416,Karen Ross,35,M,High,3/4/2025,,,0,0,New Nichole,Yes,0,0,Pending
+P0419,Riley Martinez,18,M,High,5/8/2025,,"Fracture, Cancer",0,0,East Thomas,Yes,0,0,Pending
+P0420,Victor Archer,46,F,Medium,4/18/2025,,,0,0,Lake Lindseyburgh,Yes,0,0,Pending
+P0422,Amber Nguyen,24,M,Low,4/5/2025,,Hypertension,0,0,Mendozaside,No,0,0,Pending
+P0423,Michael Alvarez,5,F,Medium,2/19/2025,,"Fracture, Heart Disease, Fracture",0,0,Thomasburgh,No,0,0,Pending
+P0424,Dawn Mcmahon,38,M,Medium,5/8/2025,,,0,0,Carlsonborough,Yes,0,0,Pending
+P0426,Dustin Soto,24,M,Low,3/13/2025,,Hypertension,0,0,Danielbury,No,0,0,Pending
+P0428,Kathryn Fields,81,M,High,4/10/2025,,Cancer,0,0,Thomasburgh,Yes,0,0,Pending
+P0429,David Garcia,25,M,High,3/23/2025,,"Fracture, Hypertension",0,0,Frankmouth,Yes,0,0,Pending
+P0432,Heather Gonzales,75,M,High,3/6/2025,,,0,0,Jonathanshire,Yes,0,0,Pending
+P0435,Linda Campos,55,M,High,4/6/2025,,Asthma,0,0,East Samuel,Yes,0,0,Pending
+P0437,Kevin Coleman II,85,M,Medium,2/26/2025,,,0,0,West Amy,Yes,0,0,Pending
+P0440,Thomas Rodriguez,73,F,High,2/21/2025,,,0,0,East Caitlinhaven,Yes,0,0,Pending
+P0441,Adam Forbes II,82,F,Medium,4/3/2025,,Asthma,0,0,Hernandezfurt,No,0,0,Pending
+P0444,Richard Johnson,64,M,High,5/3/2025,,"Fracture, Cancer",0,0,Thomasburgh,Yes,0,0,Pending
+P0445,Joshua Wilson,37,M,Low,5/8/2025,,Diabetes,0,0,Snyderhaven,No,0,0,Pending
+P0446,Matthew Suarez,52,F,Low,3/28/2025,,"Heart Disease, Asthma",0,0,Lorettaton,Yes,0,0,Pending
+P0448,Alvin Johnston,37,M,Medium,4/7/2025,,"Hypertension, Cancer",0,0,Coxton,No,0,0,Pending
+P0449,James Campbell,8,M,Medium,3/13/2025,,"Diabetes, Asthma, Diabetes",0,0,Alexandriachester,Yes,0,0,Pending
+P0450,Kyle Wright,46,M,Medium,4/22/2025,,"Heart Disease, Heart Disease",0,0,North Kristi,Yes,0,0,Pending
+P0451,Tommy Wood,18,F,High,4/24/2025,,"Heart Disease, Fracture, Heart Disease",0,0,New Robert,Yes,0,0,Pending
+P0452,William Molina,10,M,High,3/26/2025,,"Hypertension, Diabetes, Asthma",0,0,Smithmouth,No,0,0,Pending
+P0453,Linda Velasquez,1,M,Low,2/26/2025,,"Heart Disease, Heart Disease",0,0,Torresside,Yes,0,0,Pending
+P0454,Michael Price,84,F,Medium,4/17/2025,,Cancer,0,0,Port Melissaville,No,0,0,Pending
+P0455,Deanna Barton,20,M,Medium,3/8/2025,,,0,0,South Emily,Yes,0,0,Pending
+P0458,Wendy Johnson,9,M,Medium,4/3/2025,,Hypertension,0,0,Zunigaside,No,0,0,Pending
+P0459,Charles Robinson,64,F,High,3/18/2025,,"Diabetes, Hypertension",0,0,Madisonview,No,0,0,Pending
+P0460,Zachary Gallegos,76,M,High,2/21/2025,,"Cancer, Cancer, Cancer",0,0,North Lori,No,0,0,Pending
+P0461,Abigail Caldwell,86,F,Medium,3/6/2025,,"Fracture, Asthma",0,0,Johnview,No,0,0,Pending
+P0462,Chase Hansen,31,M,High,4/26/2025,,,0,0,Port Rogerview,Yes,0,0,Pending
+P0463,Erica Burke,16,M,High,2/20/2025,,,0,0,Moorestad,Yes,0,0,Pending
+P0466,Adam Wright,80,M,High,3/26/2025,,"Cancer, Hypertension",0,0,Theresahaven,No,0,0,Pending
+P0471,Kenneth Jackson,13,F,High,4/16/2025,,,0,0,Shaneton,Yes,0,0,Pending
+P0472,Norman Hayes DDS,67,M,High,4/14/2025,,"Cancer, Fracture, Heart Disease",0,0,Brownville,No,0,0,Pending
+P0473,Brandon Wilson,59,M,Low,3/29/2025,,Asthma,0,0,Mendezstad,Yes,0,0,Pending
+P0475,Amy Palmer,18,M,Low,3/13/2025,,,0,0,Johnsonview,Yes,0,0,Pending
+P0481,Kim Walker,54,F,Low,4/1/2025,,,0,0,North Anthonybury,Yes,0,0,Pending
+P0482,John Hernandez,59,F,High,3/29/2025,,"Fracture, Asthma",0,0,Caldwellberg,No,0,0,Pending
+P0483,Chelsea Adams MD,55,M,Medium,3/5/2025,,"Cancer, Cancer",0,0,North Edwardmouth,No,0,0,Pending
+P0486,Tiffany Thomas,74,F,Medium,2/23/2025,,Fracture,0,0,Millerchester,No,0,0,Pending
+P0488,Melissa Thomas,54,F,High,2/17/2025,,"Fracture, Diabetes, Hypertension",0,0,Wilkersonberg,No,0,0,Pending
+P0491,James Bailey,9,M,High,5/4/2025,,"Heart Disease, Hypertension",0,0,North Justin,Yes,0,0,Pending
+P0493,Sara Harmon,6,M,High,3/22/2025,,"Heart Disease, Fracture",0,0,Mossville,Yes,0,0,Pending
+P0496,David Duncan,60,M,Low,5/1/2025,,"Diabetes, Cancer, Hypertension",0,0,West Carrie,Yes,0,0,Pending
+P0498,Joshua Bolton,59,M,High,3/3/2025,,Heart Disease,0,0,Waynefurt,No,0,0,Pending
+P0500,Darlene Lewis,4,F,High,3/29/2025,,"Hypertension, Hypertension",0,0,Josephburgh,Yes,0,0,Pending
+P0505,Amanda Martinez,35,F,High,3/13/2025,,"Cancer, Heart Disease, Asthma",0,0,Port Michaelport,Yes,0,0,Pending
+P0507,Alicia Blackwell,4,M,Low,4/16/2025,,"Asthma, Heart Disease",0,0,Lake Emmabury,Yes,0,0,Pending
+P0508,Janice Garcia,45,F,Low,2/15/2025,,,0,0,Yoderton,Yes,0,0,Pending
+P0510,Deborah Huffman,56,M,Low,3/5/2025,,,0,0,South Robert,No,0,0,Pending
+P0512,Victoria Peterson,23,F,Medium,3/19/2025,,Fracture,0,0,Lake Jerry,Yes,0,0,Pending
+P0514,Melvin Montes,7,F,Low,5/2/2025,,,0,0,Davisshire,No,0,0,Pending
+P0515,Brent Graves,10,F,Low,5/8/2025,,,0,0,West Markbury,No,0,0,Pending
+P0519,Johnny Wilcox,4,M,High,4/9/2025,,Cancer,0,0,Foleybury,Yes,0,0,Pending
+P0522,Mrs. Melanie Miller,19,F,High,4/27/2025,,"Diabetes, Diabetes",0,0,East Ashleyside,No,0,0,Pending
+P0523,Brandon Crane,90,F,Medium,3/25/2025,,"Heart Disease, Hypertension",0,0,Lambertchester,No,0,0,Pending
+P0524,Brian Russell,4,M,Low,4/11/2025,,,0,0,New Williamview,No,0,0,Pending
+P0526,Daniel Robinson,2,F,High,4/10/2025,,"Hypertension, Diabetes, Fracture",0,0,Allenside,Yes,0,0,Pending
+P0527,Thomas Levine,24,M,High,4/18/2025,,,0,0,Benjaminstad,No,0,0,Pending
+P0528,Karen Jones,90,M,Low,3/24/2025,,"Cancer, Asthma, Fracture",0,0,North Matthewland,Yes,0,0,Pending
+P0529,Danielle Hebert,18,F,High,4/13/2025,,"Asthma, Cancer, Heart Disease",0,0,Brettmouth,Yes,0,0,Pending
+P0530,Justin Walters,49,F,High,5/6/2025,,"Fracture, Asthma",0,0,Underwoodland,No,0,0,Pending
+P0532,Denise Willis DDS,44,F,Low,5/10/2025,,Fracture,0,0,South Michelleport,Yes,0,0,Pending
+P0533,Cynthia Hayes,34,F,Low,2/25/2025,,Asthma,0,0,Erikaland,No,0,0,Pending
+P0536,Matthew Richards,50,M,Low,2/22/2025,,"Cancer, Cancer",0,0,New Amanda,No,0,0,Pending
+P0538,Joshua Lee,31,M,High,2/17/2025,,"Cancer, Asthma, Diabetes",0,0,Kaylaburgh,No,0,0,Pending
+P0539,Kristin Bolton,50,F,Medium,4/16/2025,,"Asthma, Asthma, Heart Disease",0,0,Michaelville,No,0,0,Pending
+P0541,Tyler Boone,15,M,Medium,4/24/2025,,,0,0,New Joseport,No,0,0,Pending
+P0544,Brian Moore,7,M,High,2/26/2025,,"Cancer, Heart Disease, Heart Disease",0,0,West Alexis,No,0,0,Pending
+P0546,Allison Ortiz,71,F,Medium,4/25/2025,,"Fracture, Heart Disease, Fracture",0,0,South Pamela,Yes,0,0,Pending
+P0547,Adrian Mcdaniel,69,M,High,2/22/2025,,,0,0,East Kristinaton,No,0,0,Pending
+P0549,Shawn Brown,15,F,High,3/9/2025,,,0,0,Lake Jessicafurt,No,0,0,Pending
+P0551,Olivia Thompson,64,M,Low,3/14/2025,,"Hypertension, Heart Disease",0,0,Mcneilhaven,Yes,0,0,Pending
+P0555,Tracy Smith,65,F,Low,4/19/2025,,Heart Disease,0,0,Braychester,Yes,0,0,Pending
+P0556,Diana Lee,26,F,Low,3/2/2025,,"Cancer, Asthma, Hypertension",0,0,East Kevinborough,No,0,0,Pending
+P0557,Olivia Bennett,62,F,High,4/23/2025,,Fracture,0,0,Martinezburgh,Yes,0,0,Pending
+P0559,Elizabeth Young,16,M,High,4/16/2025,,"Asthma, Hypertension, Hypertension",0,0,South William,No,0,0,Pending
+P0561,Maurice Hill,74,M,High,2/21/2025,,,0,0,Lake Angelashire,Yes,0,0,Pending
+P0565,Eric Wilson,43,M,Medium,3/25/2025,,,0,0,East Emily,No,0,0,Pending
+P0568,Sabrina Smith,90,F,Low,5/2/2025,,,0,0,Barbaraburgh,Yes,0,0,Pending
+P0570,Ms. Ann Davis DVM,13,F,Low,3/16/2025,,,0,0,West Wayne,No,0,0,Pending
+P0573,Mary Nelson DDS,6,F,Low,2/23/2025,,"Fracture, Asthma",0,0,North Shaneborough,No,0,0,Pending
+P0575,Deborah Marquez,71,M,High,3/24/2025,,Asthma,0,0,Wandaport,Yes,0,0,Pending
+P0576,Francisco Villanueva,89,M,High,3/21/2025,,"Cancer, Fracture, Cancer",0,0,Lake Lisa,No,0,0,Pending
+P0578,Rodney Jackson,50,F,Low,3/10/2025,,"Asthma, Cancer",0,0,South Mariaside,No,0,0,Pending
+P0579,Veronica Brown,72,F,High,3/10/2025,,,0,0,South Gabrielletown,Yes,0,0,Pending
+P0580,Darrell Johnson,56,F,High,3/15/2025,,,0,0,Port Jillfort,No,0,0,Pending
+P0581,Richard Stewart,15,F,Low,5/8/2025,,"Heart Disease, Diabetes",0,0,Stephanieville,Yes,0,0,Pending
+P0585,Ann King,52,M,High,3/8/2025,,"Hypertension, Heart Disease",0,0,Andersonburgh,Yes,0,0,Pending
+P0587,Sarah Burgess,34,M,High,3/25/2025,,,0,0,New Ryanfort,No,0,0,Pending
+P0591,Alexis Rodriguez,61,M,High,4/24/2025,,"Diabetes, Fracture",0,0,Goldenville,Yes,0,0,Pending
+P0593,George Bryant,53,M,High,4/30/2025,,"Heart Disease, Diabetes, Asthma",0,0,New Daniel,No,0,0,Pending
+P0594,Melissa Preston,71,M,High,4/1/2025,,"Cancer, Heart Disease, Cancer",0,0,Christineburgh,No,0,0,Pending
+P0595,Denise Allen,22,M,Low,4/3/2025,,"Fracture, Heart Disease",0,0,Harrisview,No,0,0,Pending
+P0597,Jennifer Weber,10,M,Medium,4/18/2025,,,0,0,Port Mark,No,0,0,Pending
+P0598,Amanda Ali,42,M,High,3/15/2025,,,0,0,Prattfurt,Yes,0,0,Pending
+P0599,Brian Roman,35,F,High,4/14/2025,,Cancer,0,0,Paulview,No,0,0,Pending
+P0600,Kimberly Morales,76,M,Medium,2/18/2025,,"Diabetes, Asthma",0,0,Martinview,Yes,0,0,Pending
+P0601,Sara Roy,11,M,Low,3/14/2025,,,0,0,West Stevenview,Yes,0,0,Pending
+P0605,Allison Ali,2,M,Medium,3/3/2025,,,0,0,Christopherchester,Yes,0,0,Pending
+P0614,Brian Jones Jr.,76,M,High,3/30/2025,,"Cancer, Diabetes, Heart Disease",0,0,South Teresaborough,No,0,0,Pending
+P0615,Brianna Lucero,32,M,Medium,3/3/2025,,"Cancer, Hypertension, Hypertension",0,0,Lake Sharon,Yes,0,0,Pending
+P0617,Anna Roberson,21,F,Medium,3/3/2025,,Diabetes,0,0,Joeburgh,Yes,0,0,Pending
+P0618,Mary Friedman,11,F,Medium,3/13/2025,,"Asthma, Diabetes, Diabetes",0,0,Lake Michaelborough,Yes,0,0,Pending
+P0619,Anthony Garcia DDS,4,M,High,3/16/2025,,Heart Disease,0,0,Hayesmouth,Yes,0,0,Pending
+P0620,Ashley Mills,32,F,High,2/16/2025,,"Hypertension, Fracture, Heart Disease",0,0,Andrewschester,No,0,0,Pending
+P0624,Edward Garner,14,F,High,5/7/2025,,"Diabetes, Hypertension",0,0,Mariaborough,Yes,0,0,Pending
+P0626,Victor Larson,6,M,Medium,4/30/2025,,Hypertension,0,0,Kellyshire,Yes,0,0,Pending
+P0627,Taylor Frazier,33,F,High,4/23/2025,,,0,0,South Tamaraborough,Yes,0,0,Pending
+P0630,Tina Smith,30,F,Low,2/24/2025,,Asthma,0,0,Port Adamfort,Yes,0,0,Pending
+P0631,Christine Garrett,90,F,Medium,5/10/2025,,"Diabetes, Cancer",0,0,New Tonychester,Yes,0,0,Pending
+P0635,Kimberly James,56,M,High,4/3/2025,,,0,0,Bradleyton,No,0,0,Pending
+P0636,Michael Warren,3,M,Low,2/14/2025,,"Fracture, Cancer, Hypertension",0,0,South Breannashire,No,0,0,Pending
+P0637,Austin Guzman,88,M,Low,2/15/2025,,Heart Disease,0,0,Marychester,No,0,0,Pending
+P0640,Blake Page,8,M,Low,4/14/2025,,"Fracture, Cancer, Asthma",0,0,West Carolfurt,No,0,0,Pending
+P0644,Jessica Horn,54,F,Low,4/27/2025,,Hypertension,0,0,Saraton,No,0,0,Pending
+P0645,Wayne Poole,68,F,Low,4/3/2025,,,0,0,West Karabury,Yes,0,0,Pending
+P0648,Billy Sosa,50,M,High,3/21/2025,,"Asthma, Hypertension",0,0,Lake Jonathan,No,0,0,Pending
+P0649,Thomas Powell,28,M,High,5/5/2025,,Asthma,0,0,New Sarahview,Yes,0,0,Pending
+P0650,Andre Medina,4,M,Medium,2/18/2025,,,0,0,Andreastad,No,0,0,Pending
+P0655,Stephanie Moore,43,M,Medium,3/2/2025,,"Cancer, Asthma",0,0,Blackberg,Yes,0,0,Pending
+P0659,Cassandra Williams,76,M,Medium,4/8/2025,,,0,0,South Jacobview,No,0,0,Pending
+P0661,Jacob Brown,72,M,High,3/8/2025,,"Hypertension, Hypertension, Cancer",0,0,South Andrew,No,0,0,Pending
+P0662,Kevin Schmidt,23,M,High,3/27/2025,,"Diabetes, Hypertension",0,0,Jonesside,Yes,0,0,Pending
+P0666,Tracy Steele,3,M,Medium,3/8/2025,,"Hypertension, Cancer, Diabetes",0,0,East Tamara,No,0,0,Pending
+P0670,Steve Miller,67,F,Medium,3/26/2025,,"Heart Disease, Hypertension, Asthma",0,0,East Marcusport,No,0,0,Pending
+P0675,Tonya Archer,47,F,Medium,4/5/2025,,"Fracture, Fracture",0,0,Lauraport,No,0,0,Pending
+P0677,Richard Young,76,M,High,4/25/2025,,,0,0,Mirandaville,Yes,0,0,Pending
+P0678,John Browning,90,M,High,4/4/2025,,Diabetes,0,0,Cooperport,No,0,0,Pending
+P0679,James Bowers,36,M,High,4/30/2025,,"Cancer, Heart Disease, Diabetes",0,0,Gonzalezhaven,No,0,0,Pending
+P0685,Andrew Jones,30,F,Low,4/19/2025,,"Hypertension, Hypertension",0,0,Christopherburgh,No,0,0,Pending
+P0687,Mark Rodgers,6,F,Medium,2/21/2025,,"Hypertension, Asthma",0,0,Hayesside,No,0,0,Pending
+P0689,Scott Hopkins,49,F,Low,3/25/2025,,"Asthma, Heart Disease, Asthma",0,0,Simsstad,No,0,0,Pending
+P0690,Sarah Thompson,45,F,Low,4/14/2025,,,0,0,South Edwinland,Yes,0,0,Pending
+P0692,Hannah Aguilar,46,F,High,5/9/2025,,"Hypertension, Hypertension, Cancer",0,0,South Veronica,Yes,0,0,Pending
+P0694,Erica Nguyen,85,F,Low,2/24/2025,,Asthma,0,0,Amandaton,No,0,0,Pending
+P0695,Shaun Shepherd,5,F,High,2/23/2025,,"Fracture, Fracture, Heart Disease",0,0,South William,No,0,0,Pending
+P0697,Emma Perkins,38,F,High,3/11/2025,,Heart Disease,0,0,Rodriguezview,No,0,0,Pending
+P0699,Kevin Moore,27,F,Medium,4/16/2025,,"Heart Disease, Asthma, Asthma",0,0,Patelport,No,0,0,Pending
+P0700,Brandon Lucas,82,F,Medium,2/15/2025,,"Heart Disease, Hypertension, Asthma",0,0,Jerryberg,Yes,0,0,Pending
+P0702,Jerry Hanson,65,F,Medium,2/28/2025,,"Diabetes, Asthma",0,0,Thomasmouth,Yes,0,0,Pending
+P0706,Lisa Lopez,18,M,Low,3/16/2025,,,0,0,New Molly,No,0,0,Pending
+P0707,Jill Parsons,71,F,Low,4/22/2025,,"Diabetes, Heart Disease",0,0,North Adammouth,Yes,0,0,Pending
+P0714,April Drake,14,F,Medium,4/6/2025,,"Cancer, Heart Disease",0,0,Banksberg,Yes,0,0,Pending
+P0716,Tiffany Moore,52,M,Low,3/28/2025,,,0,0,Lake Michael,Yes,0,0,Pending
+P0717,James Hansen,31,F,High,2/23/2025,,"Cancer, Heart Disease",0,0,Johnsonchester,Yes,0,0,Pending
+P0719,Jordan Clay,57,F,Low,4/22/2025,,,0,0,South Rhonda,No,0,0,Pending
+P0720,Tina Rodriguez,72,M,Low,3/17/2025,,Diabetes,0,0,Priceland,Yes,0,0,Pending
+P0722,Paul Hill,33,M,Medium,4/13/2025,,"Asthma, Diabetes",0,0,New Brianna,Yes,0,0,Pending
+P0723,Sarah Chandler,8,M,Low,5/5/2025,,Cancer,0,0,Port Cynthia,No,0,0,Pending
+P0725,Brianna Watson DVM,55,M,Low,3/5/2025,,Asthma,0,0,North Erin,Yes,0,0,Pending
+P0726,Valerie Burns,63,M,Medium,5/9/2025,,"Hypertension, Heart Disease",0,0,West Kimberly,Yes,0,0,Pending
+P0727,Daniel Murray,71,M,Medium,2/23/2025,,"Cancer, Heart Disease, Diabetes",0,0,Lake Mark,No,0,0,Pending
+P0728,Brandon Gray,39,M,Low,4/22/2025,,Hypertension,0,0,Sarahmouth,Yes,0,0,Pending
+P0729,Emily Ryan,32,M,Low,5/4/2025,,,0,0,Georgebury,No,0,0,Pending
+P0730,Aaron Martin,62,M,Low,5/11/2025,,Diabetes,0,0,Markborough,No,0,0,Pending
+P0732,Kathryn Lee,3,F,Low,2/17/2025,,,0,0,Christophertown,No,0,0,Pending
+P0734,Sarah Barker,25,M,Low,4/13/2025,,Hypertension,0,0,Patrickberg,Yes,0,0,Pending
+P0735,Robin Gonzales,90,F,Medium,3/23/2025,,"Hypertension, Hypertension, Diabetes",0,0,Lake Kayla,Yes,0,0,Pending
+P0736,Charles Carter,88,F,Medium,2/26/2025,,"Diabetes, Asthma, Hypertension",0,0,East Lauriefurt,No,0,0,Pending
+P0741,Candace Phelps,22,F,Medium,2/24/2025,,,0,0,East Emily,No,0,0,Pending
+P0743,Nathaniel Yates,34,M,Medium,3/27/2025,,Hypertension,0,0,Johnstonhaven,No,0,0,Pending
+P0747,Kimberly Benson,75,F,High,2/13/2025,,Asthma,0,0,Port Christopher,No,0,0,Pending
+P0754,Kevin Armstrong,49,F,High,3/8/2025,,,0,0,South Richard,Yes,0,0,Pending
+P0756,Samantha Hill,90,M,High,3/30/2025,,"Diabetes, Heart Disease, Diabetes",0,0,Brianton,No,0,0,Pending
+P0757,Ronald Sparks,54,M,Medium,4/2/2025,,Cancer,0,0,New Mariaside,No,0,0,Pending
+P0758,Kayla Williams,38,F,Medium,2/27/2025,,,0,0,Port Christianton,No,0,0,Pending
+P0761,Nicole Olsen,9,F,Medium,3/25/2025,,Hypertension,0,0,South Dennis,Yes,0,0,Pending
+P0762,Alexis Stewart DDS,67,M,Medium,2/24/2025,,,0,0,East Derek,Yes,0,0,Pending
+P0764,Timothy Ramos,73,M,Medium,3/27/2025,,,0,0,Robinsonton,Yes,0,0,Pending
+P0767,William Ramirez,86,M,High,4/2/2025,,"Hypertension, Heart Disease, Diabetes",0,0,New Elaineton,No,0,0,Pending
+P0770,Richard Robinson,38,M,Medium,5/5/2025,,"Cancer, Cancer, Diabetes",0,0,Wheelerchester,No,0,0,Pending
+P0772,Michael Lester,24,M,High,4/20/2025,,"Diabetes, Asthma, Asthma",0,0,Vanessaland,Yes,0,0,Pending
+P0773,John Lambert,72,M,High,5/7/2025,,Fracture,0,0,South Barbara,Yes,0,0,Pending
+P0775,Gary Jones,41,M,Medium,4/8/2025,,Asthma,0,0,Mcleanchester,Yes,0,0,Pending
+P0776,Keith Owens,31,F,Low,4/25/2025,,,0,0,Lake Samantha,Yes,0,0,Pending
+P0779,Kelly Boyd,45,F,Medium,4/7/2025,,,0,0,North Brettmouth,No,0,0,Pending
+P0781,Joel Velez,26,M,Low,2/16/2025,,,0,0,Melissamouth,No,0,0,Pending
+P0782,Kristin Melton,53,M,Low,2/19/2025,,"Cancer, Asthma",0,0,North Olivia,No,0,0,Pending
+P0785,Shawn Brock,55,F,Low,3/13/2025,,,0,0,Lake Stephanieshire,No,0,0,Pending
+P0791,Stephen Smith,55,F,Low,4/20/2025,,"Diabetes, Diabetes",0,0,Davidmouth,No,0,0,Pending
+P0792,Robin Morrison,35,M,High,3/22/2025,,,0,0,New Phillipstad,No,0,0,Pending
+P0793,Maurice Martin,5,M,Low,2/16/2025,,"Fracture, Fracture, Fracture",0,0,Leechester,Yes,0,0,Pending
+P0796,Anna White,50,M,Low,3/24/2025,,"Heart Disease, Cancer",0,0,South Melissa,Yes,0,0,Pending
+P0798,Michael Kramer,10,M,Low,4/12/2025,,Diabetes,0,0,Jamieport,Yes,0,0,Pending
+P0799,Brittany Davis,58,F,Low,4/28/2025,,"Cancer, Fracture",0,0,South Monicachester,No,0,0,Pending
+P0802,Traci Reed,62,M,Low,3/8/2025,,Asthma,0,0,Lake Brendaton,No,0,0,Pending
+P0803,Catherine White,40,F,Medium,3/18/2025,,Asthma,0,0,West Kevin,Yes,0,0,Pending
+P0807,Brian York,49,M,High,3/30/2025,,,0,0,Castroberg,Yes,0,0,Pending
+P0808,Daniel Riley,50,M,Low,3/11/2025,,,0,0,Sarahfurt,No,0,0,Pending
+P0812,Jennifer Ibarra,41,M,Low,2/18/2025,,"Diabetes, Hypertension",0,0,Salazarbury,Yes,0,0,Pending
+P0813,David Davenport,42,M,Low,3/8/2025,,"Heart Disease, Cancer",0,0,Lunamouth,No,0,0,Pending
+P0814,Lauren Hanson,44,M,Low,2/13/2025,,"Heart Disease, Heart Disease",0,0,Gomeztown,No,0,0,Pending
+P0818,Brittany Lucas,46,M,Low,4/28/2025,,"Cancer, Asthma, Asthma",0,0,Williamschester,No,0,0,Pending
+P0819,Andrea Johns,81,M,Low,2/13/2025,,,0,0,Dianaside,No,0,0,Pending
+P0820,Stephanie Martin,72,M,High,4/2/2025,,"Asthma, Cancer",0,0,West Danielle,No,0,0,Pending
+P0823,Stephen Walsh,4,M,High,4/1/2025,,,0,0,Mariamouth,Yes,0,0,Pending
+P0824,Angel Sutton,19,F,High,4/16/2025,,,0,0,South Mary,Yes,0,0,Pending
+P0826,Shirley Ortega,21,F,High,4/12/2025,,Asthma,0,0,Bakermouth,No,0,0,Pending
+P0827,Debra Green,34,M,Low,4/12/2025,,"Fracture, Diabetes, Heart Disease",0,0,North Brycebury,No,0,0,Pending
+P0829,Anthony Collins,6,F,Medium,2/24/2025,,Diabetes,0,0,Philipfort,No,0,0,Pending
+P0830,Kayla Shields,10,M,High,3/2/2025,,"Asthma, Diabetes, Heart Disease",0,0,Smithmouth,No,0,0,Pending
+P0833,Tyler Walters,15,F,Medium,3/22/2025,,,0,0,New Davidmouth,No,0,0,Pending
+P0834,Olivia Barnes,56,M,High,4/30/2025,,"Cancer, Asthma, Cancer",0,0,Alexanderburgh,No,0,0,Pending
+P0835,Aaron Cook,86,F,High,2/15/2025,,Fracture,0,0,Lisatown,Yes,0,0,Pending
+P0836,Jonathan Woods,19,M,High,3/27/2025,,"Hypertension, Heart Disease, Cancer",0,0,Lake Coleport,Yes,0,0,Pending
+P0839,David Sloan,49,M,High,4/5/2025,,"Asthma, Asthma",0,0,South Wandamouth,Yes,0,0,Pending
+P0842,Lisa Anderson,43,M,Low,4/11/2025,,"Cancer, Heart Disease, Hypertension",0,0,South Heidimouth,Yes,0,0,Pending
+P0847,Jordan Nichols,29,F,Medium,4/5/2025,,"Diabetes, Asthma",0,0,Amandaburgh,No,0,0,Pending
+P0849,Jessica Palmer,39,F,High,5/9/2025,,Diabetes,0,0,Douglasview,Yes,0,0,Pending
+P0850,Brandon Martin,72,M,Low,3/18/2025,,,0,0,Batesview,No,0,0,Pending
+P0851,Kim Pennington,71,F,Medium,4/14/2025,,,0,0,Lisabury,Yes,0,0,Pending
+P0852,Cynthia Krueger,76,F,Medium,3/18/2025,,"Heart Disease, Cancer, Hypertension",0,0,Claudiaborough,Yes,0,0,Pending
+P0857,Kelly White,15,M,High,3/15/2025,,,0,0,Lake Eric,No,0,0,Pending
+P0860,Samuel Morton,25,M,Medium,4/29/2025,,"Heart Disease, Diabetes",0,0,East David,No,0,0,Pending
+P0862,Jill Schmitt,44,F,Low,4/21/2025,,Cancer,0,0,Deannamouth,No,0,0,Pending
+P0865,Garrett Mendez,64,M,Medium,4/1/2025,,Asthma,0,0,Feliciaville,No,0,0,Pending
+P0866,Audrey Smith,75,M,Medium,3/21/2025,,"Cancer, Asthma, Asthma",0,0,Amandaborough,No,0,0,Pending
+P0867,Jesus Conrad,17,F,Low,4/10/2025,,Asthma,0,0,Port Jasonborough,No,0,0,Pending
+P0868,Cassandra Hansen,45,M,Medium,2/18/2025,,"Cancer, Heart Disease",0,0,Villegasside,Yes,0,0,Pending
+P0870,Tammy Ross,46,M,Medium,4/24/2025,,Cancer,0,0,East Brenda,No,0,0,Pending
+P0871,Meredith Williams,24,F,Medium,3/29/2025,,,0,0,Simpsonshire,No,0,0,Pending
+P0873,Robert Arias,11,M,High,4/2/2025,,,0,0,South Gregory,Yes,0,0,Pending
+P0876,Tammy Dean,60,M,High,3/10/2025,,"Cancer, Fracture",0,0,East Hunter,Yes,0,0,Pending
+P0877,Terry Smith,6,M,Medium,5/2/2025,,,0,0,North John,Yes,0,0,Pending
+P0881,Rachael Harper,39,F,High,5/12/2025,,"Diabetes, Hypertension",0,0,West Jeffburgh,Yes,0,0,Pending
+P0882,Sarah Allen,78,F,Medium,5/7/2025,,"Hypertension, Cancer",0,0,Cobbburgh,No,0,0,Pending
+P0883,Daniel Green,72,M,High,3/28/2025,,"Heart Disease, Asthma",0,0,North Jasonburgh,Yes,0,0,Pending
+P0885,Christopher Duarte,40,M,High,2/18/2025,,Asthma,0,0,Erinfort,No,0,0,Pending
+P0888,Sara Sandoval,2,M,Medium,3/8/2025,,"Asthma, Heart Disease, Cancer",0,0,Port Leslieburgh,No,0,0,Pending
+P0889,Brittany Washington,85,F,Low,4/13/2025,,,0,0,New Timothyburgh,No,0,0,Pending
+P0890,Deanna Wright,74,F,High,4/21/2025,,Heart Disease,0,0,Vincentmouth,Yes,0,0,Pending
+P0891,George Ray,70,M,Medium,3/16/2025,,"Cancer, Hypertension",0,0,West Amyview,No,0,0,Pending
+P0892,Hannah Garrison,58,M,High,4/9/2025,,"Cancer, Fracture",0,0,Patriciachester,No,0,0,Pending
+P0895,Thomas Santana,85,F,High,2/14/2025,,Asthma,0,0,West Elizabeth,No,0,0,Pending
+P0897,Cathy Rodriguez,6,F,High,4/23/2025,,Diabetes,0,0,West Robert,Yes,0,0,Pending
+P0898,John Perkins,81,M,High,4/22/2025,,Cancer,0,0,Thomasside,Yes,0,0,Pending
+P0900,Angela Morgan,59,M,Low,5/3/2025,,"Heart Disease, Hypertension",0,0,Lindaside,No,0,0,Pending
+P0902,Savannah Dixon,59,M,High,3/3/2025,,,0,0,New Kayla,Yes,0,0,Pending
+P0903,Joanne Henderson,50,F,High,3/20/2025,,"Heart Disease, Fracture",0,0,Lake Michelemouth,Yes,0,0,Pending
+P0907,Kim Young,44,M,Medium,4/21/2025,,,0,0,Harrisonbury,No,0,0,Pending
+P0908,Stefanie Hardy,56,F,High,4/23/2025,,,0,0,North Derrickmouth,Yes,0,0,Pending
+P0911,Dennis Carroll,26,F,High,2/13/2025,,,0,0,Bakerville,No,0,0,Pending
+P0913,Tina Mitchell,84,F,Low,3/3/2025,,"Diabetes, Hypertension, Cancer",0,0,New Danielle,Yes,0,0,Pending
+P0914,Gary Norman,86,M,High,2/18/2025,,"Diabetes, Cancer",0,0,Youngtown,No,0,0,Pending
+P0915,Daniel Bonilla,30,M,High,5/7/2025,,,0,0,Lake Danielside,No,0,0,Pending
+P0917,Thomas Jenkins,9,M,Low,3/15/2025,,Asthma,0,0,East Michaelside,No,0,0,Pending
+P0919,Heather Hess,82,M,Medium,3/6/2025,,Asthma,0,0,Davidview,Yes,0,0,Pending
+P0921,Erika Barnes,25,F,Medium,4/5/2025,,"Heart Disease, Heart Disease, Cancer",0,0,Caseyborough,No,0,0,Pending
+P0922,Samantha Jenkins,58,F,Low,4/9/2025,,"Fracture, Asthma",0,0,Wandahaven,No,0,0,Pending
+P0923,Bryan Sanders,74,F,High,3/20/2025,,"Heart Disease, Cancer, Hypertension",0,0,Lake Jamesstad,No,0,0,Pending
+P0925,Brett Wilson,14,F,Medium,3/8/2025,,"Fracture, Fracture",0,0,North Martin,Yes,0,0,Pending
+P0926,April Pace,16,F,Low,2/27/2025,,"Heart Disease, Asthma, Asthma",0,0,South Theresa,No,0,0,Pending
+P0928,Matthew Luna,70,F,Medium,4/4/2025,,"Heart Disease, Asthma",0,0,West Patricia,No,0,0,Pending
+P0929,Lisa Barnes,87,F,Low,2/17/2025,,"Cancer, Cancer",0,0,West Anthonybury,Yes,0,0,Pending
+P0931,Gary Spencer,8,M,Medium,4/9/2025,,"Diabetes, Fracture",0,0,New Garrett,Yes,0,0,Pending
+P0932,Marilyn Nelson,58,M,High,2/20/2025,,"Asthma, Cancer",0,0,Alexfurt,Yes,0,0,Pending
+P0933,Victor Davis,89,M,Low,3/7/2025,,"Hypertension, Heart Disease",0,0,North Jean,No,0,0,Pending
+P0934,Joseph Williams,23,F,Low,3/28/2025,,"Fracture, Diabetes, Diabetes",0,0,Ellisonburgh,No,0,0,Pending
+P0935,Jason Wallace,2,F,Medium,4/1/2025,,"Asthma, Diabetes",0,0,West Pamela,Yes,0,0,Pending
+P0936,Donna Palmer,44,F,Low,4/11/2025,,"Hypertension, Diabetes, Heart Disease",0,0,Wrightland,Yes,0,0,Pending
+P0937,Michael Grimes,32,M,Low,5/8/2025,,"Fracture, Hypertension",0,0,West Daniel,No,0,0,Pending
+P0938,Rachel Calderon,54,F,Medium,3/29/2025,,,0,0,Marthaton,Yes,0,0,Pending
+P0939,Charles Garcia,59,M,Low,3/9/2025,,Fracture,0,0,Nelsonchester,Yes,0,0,Pending
+P0945,Kelly Clark,82,F,Low,4/6/2025,,"Heart Disease, Fracture",0,0,Amandaland,Yes,0,0,Pending
+P0946,Katherine Mason,87,F,High,3/20/2025,,Diabetes,0,0,Port Michaelfurt,Yes,0,0,Pending
+P0947,Charles Smith,26,M,High,5/13/2025,,"Fracture, Heart Disease",0,0,Harrisville,Yes,0,0,Pending
+P0948,Micheal Casey,38,F,Low,4/22/2025,,,0,0,Mckeechester,No,0,0,Pending
+P0949,Ryan Thompson,3,F,High,3/1/2025,,Heart Disease,0,0,Tommyville,No,0,0,Pending
+P0953,Jessica Curry,14,F,High,3/12/2025,,"Diabetes, Cancer, Hypertension",0,0,East Baileyburgh,Yes,0,0,Pending
+P0957,Erin Taylor,76,F,Medium,3/25/2025,,"Heart Disease, Diabetes",0,0,Jamesbury,Yes,0,0,Pending
+P0958,Joshua Kent,43,M,High,5/4/2025,,"Cancer, Fracture, Cancer",0,0,West Cody,Yes,0,0,Pending
+P0959,Walter Williams,73,M,Medium,3/5/2025,,"Asthma, Cancer",0,0,Port Carolberg,No,0,0,Pending
+P0961,Colleen Nguyen,46,F,Low,3/14/2025,,"Fracture, Asthma",0,0,Gregoryport,Yes,0,0,Pending
+P0963,Julie Parsons,60,M,High,2/27/2025,,"Diabetes, Heart Disease",0,0,Ramseychester,Yes,0,0,Pending
+P0964,Mr. Adrian Knight,6,M,Low,4/24/2025,,Asthma,0,0,Amandamouth,No,0,0,Pending
+P0967,Michael Graham,7,M,Medium,5/9/2025,,"Heart Disease, Diabetes, Fracture",0,0,Raymondport,No,0,0,Pending
+P0968,Justin Weber,15,F,High,4/8/2025,,,0,0,Duncanfort,No,0,0,Pending
+P0969,Laura Peterson,54,M,Low,2/18/2025,,,0,0,Rossborough,Yes,0,0,Pending
+P0971,Maria Foley,88,M,Medium,2/16/2025,,,0,0,East Keith,Yes,0,0,Pending
+P0973,Austin Lang,72,M,High,3/14/2025,,Heart Disease,0,0,Wendyview,Yes,0,0,Pending
+P0976,Christopher Lee,37,F,Low,4/14/2025,,"Cancer, Cancer",0,0,Samuelberg,Yes,0,0,Pending
+P0977,Martha Mullins,74,F,Low,3/13/2025,,"Heart Disease, Hypertension",0,0,Jeffreymouth,No,0,0,Pending
+P0980,Tamara Warren,19,F,Medium,5/1/2025,,,0,0,Hallhaven,No,0,0,Pending
+P0981,Rebecca Wong,81,F,Low,4/19/2025,,"Fracture, Hypertension, Fracture",0,0,Donaldberg,No,0,0,Pending
+P0983,Victoria Hudson,71,M,Medium,2/26/2025,,,0,0,New Sarahborough,No,0,0,Pending
+P0984,Deborah Bailey,26,F,High,4/19/2025,,,0,0,Hurstburgh,No,0,0,Pending
+P0989,Brenda Johnson,44,F,Medium,5/6/2025,,Hypertension,0,0,Milesstad,Yes,0,0,Pending
+P0992,Ronald Castillo,77,F,Low,4/16/2025,,"Hypertension, Fracture, Hypertension",0,0,Amyview,Yes,0,0,Pending
+P0993,Sierra Ewing,84,F,Low,3/4/2025,,,0,0,East Chadshire,No,0,0,Pending
+P0994,Lance Simon,37,M,Low,3/13/2025,,"Cancer, Diabetes",0,0,Lake Alberttown,No,0,0,Pending
+P123	A	12	M	High	2025-11-11	-	Cabcer	12000	5	Ny	Yes	12000	0	Paid
