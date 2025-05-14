@@ -96,6 +96,10 @@
     "sstream": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "ctime": "cpp",
+    "unordered_set": "cpp",
+    "map": "cpp",
+    "iomanip": "cpp"
   }
 }

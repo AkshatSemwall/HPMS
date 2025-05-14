@@ -1,7 +1,11 @@
-#ifndef REPORTGENERATION_H
-#define REPORTGENERATION_H
+#ifndef REPORT_GENERATION_H
+#define REPORT_GENERATION_H
 
-// Function declaration to generate reports
-void generateReport();
+#include <string>
 
-#endif // REPORTGENERATION_H
+class ReportGeneration {
+public:
+    static void generateDailyReport(const std::string& filePath);
+};
+
+#endif
