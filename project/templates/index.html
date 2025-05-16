@@ -52,13 +52,13 @@
     nav {
       display: flex;
       align-items: center;
-      gap: 1.8rem;
+      gap: 1.2rem;
     }
     nav a {
       color: white;
       text-decoration: none;
       font-weight: 600;
-      padding: 0.5em 1.2em;
+      padding: 0.5em 1em;
       border-radius: 30px;
       transition: all 0.3s ease;
       font-size: 1rem;
@@ -72,12 +72,50 @@
       transform: translateY(-2px);
       box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
-    nav a:last-child {
+
+    /* Dropdown Menu */
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    .dropdown-btn {
       background-color: #00aaff;
       border-color: #00aaff;
+      padding: 0.5em 1.5em;
+      cursor: pointer;
     }
-    nav a:last-child:hover {
+    .dropdown-btn:hover {
       background-color: #0088cc;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      right: 0;
+      background-color: white;
+      min-width: 180px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+      border-radius: 8px;
+      z-index: 1;
+      overflow: hidden;
+    }
+    .dropdown-content a {
+      color: #333;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      transition: background-color 0.3s;
+      border: none;
+      border-radius: 0;
+      font-weight: 500;
+    }
+    .dropdown-content a:hover {
+      background-color: #f0f8ff;
+      color: #0066cc;
+      transform: none;
+      box-shadow: none;
+    }
+    .dropdown:hover .dropdown-content {
+      display: block;
     }
 
     /* Hero Section */
@@ -266,10 +304,20 @@
         margin-top: 1em;
         gap: 0.8em;
         flex-wrap: wrap;
+        justify-content: center;
       }
       nav a {
         padding: 0.4em 0.8em;
         font-size: 0.9rem;
+      }
+      .dropdown {
+        width: 100%;
+        text-align: center;
+      }
+      .dropdown-content {
+        position: static;
+        width: 100%;
+        margin-top: 5px;
       }
       .hero {
         padding: 100px 20px 80px;
@@ -303,7 +351,15 @@
     <a href="#">Emergency</a>
     <a href="#">Doctors</a>
     <a href="#">Appointments</a>
-    <a href="#">Patient Portal</a>
+    <div class="dropdown">
+      <a href="#" class="dropdown-btn">Account ▼</a>
+      <div class="dropdown-content">
+        <a href="login">Login</a>
+        <a href="register">Register</a>
+        <a href="patient_list">Patient Portal</a>
+        <a href="#">Staff Login</a>
+      </div>
+    </div>
   </nav>
 </header>
 
