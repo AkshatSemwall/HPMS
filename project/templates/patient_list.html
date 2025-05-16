@@ -1,0 +1,89 @@
+<!-- templates/patient_list.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Patient List</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      padding: 30px;
+    }
+
+    h2 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    th, td {
+      padding: 12px 15px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #007bff;
+      color: white;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    button {
+      background-color: #28a745;
+      border: none;
+      color: white;
+      padding: 6px 10px;
+      margin: 2px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    button:hover {
+      background-color: #218838;
+    }
+
+    form[method="POST"]:last-child button {
+      background-color: #dc3545;
+    }
+
+    form[method="POST"]:last-child button:hover {
+      background-color: #c82333;
+    }
+  </style>
+</head>
+<body>
+  <h2>Patients in Queue</h2>
+  <table>
+    <tr><th>ID</th><th>Name</th><th>Severity</th><th>Status</th><th>Actions</th></tr>
+    {% for p in patients %}
+    <tr>
+      <td>{{ p['id'] }}</td>
+      <td>{{ p['name'] }}</td>
+      <td>{{ p['severity'] }}</td>
+      <td>{{ p['status'] }}</td>
+      <td>
+        {% if p['status'] != 'Treated' %}
+        <form method="POST" action="/mark_treated/{{ p['id'] }}" style="display:inline;">
+          <button type="submit">Mark Treated</button>
+        </form>
+        {% endif %}
+        <form method="POST" action="/remove_patient/{{ p['id'] }}" style="display:inline;">
+          <button type="submit">Remove</button>
+        </form>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
